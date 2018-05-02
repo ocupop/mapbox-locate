@@ -1,0 +1,27 @@
+{% assign sessions = site.sessions | where: "timeslot", include.timeslot %}
+{% assign sorted = sessions | sort: "track" %}
+
+<div class="row dotted-border dotted-top">
+  <div class="col">
+    <div class="content">
+      <time>{{ site.timeslots[include.timeslot] }}</time>
+    </div>
+  </div>
+</div>
+
+<div class="row dotted-border">
+  {% for session in sorted %}
+
+    <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
+      <div class="content session">
+        <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
+        <p><a href="{{ session.url }}">{{ session.title }}</a></p>
+        {% for object in session.speakers %}
+        {% assign speaker = site.speakers | where: "slug", object | first %}
+          <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
+        {% endfor%}
+      </div>
+    </div>
+
+  {% endfor %}
+</div>

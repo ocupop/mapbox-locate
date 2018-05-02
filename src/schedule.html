@@ -44,90 +44,20 @@ title: Schedule
         </div>
       </div>
     </div>
-    {% for slot in site.timeslots | limit: 3 %}
-      <!-- {{ slot | replace_regex: '-', ':' }} -->
-    {% endfor %}
-    <!-- 10:15am -->
-    {% assign sessions1 = site.sessions | where: "timeslot", "d1_slot1" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>10:15am</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted1 = sessions1 | sort: "track" %}
-      {% for session in sorted1 %}
     
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p><a href="{{ session.url }}">{{ session.title }}</a></p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
 
-      {% endfor %}
-    </div>
+    
+    
+    <!-- 10:15am -->
+    {% include session_summary.html timeslot='d1_slot1' %}
     
     <!-- 11:00am -->
-    {% assign sessions2 = site.sessions | where: "timeslot", "d1_slot2" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>11:00am</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted2 = sessions2 | sort: "track" %}
-      {% for session in sorted2 %}
+    {% include session_summary.html timeslot='d1_slot2' %}
     
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
-
-      {% endfor %}
-    </div>
-
     <!-- 11:45am -->
-    {% assign sessions3 = site.sessions | where: "timeslot", "d1_slot3" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>11:45am</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted3 = sessions3 | sort: "track" %}
-      {% for session in sorted3 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
+    {% include session_summary.html timeslot='d1_slot3' %}
 
-      {% endfor %}
-    </div>
-
+    <!-- 12:15pm - Lunch -->
     <div class="row dotted-border dotted-top">
       <div class="col-md-6">
         <div class="content">
@@ -142,112 +72,15 @@ title: Schedule
     </div>
 
     <!-- 1:30pm -->
-    {% assign sessions4 = site.sessions | where: "timeslot", "d1_slot4" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>1:30pm</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted4 = sessions4 | sort: "track" %}
-      {% for session in sorted4 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
-
-      {% endfor %}
-    </div>
+    {% include session_summary.html timeslot='d1_slot4' %}
 
     <!-- 2:15pm -->
-    {% assign sessions5 = site.sessions | where: "timeslot", "d1_slot5" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>2:15pm</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted5 = sessions5 | sort: "track" %}
-      {% for session in sorted5 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
-
-      {% endfor %}
-    </div>
+    {% include session_summary.html timeslot='d1_slot5' %}
 
     <!-- 3:00pm -->
-    {% assign sessions6 = site.sessions | where: "timeslot", "d1_slot6" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>3:00pm</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted6 = sessions6 | sort: "track" %}
-      {% for session in sorted6 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
+    {% include session_summary.html timeslot='d1_slot6' %}
 
-      {% endfor %}
-    </div>
-
-    <!-- 3:00pm -->
-    {% assign sessions6 = site.sessions | where: "timeslot", "d1_slot6" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>3:00pm</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted6 = sessions6 | sort: "track" %}
-      {% for session in sorted6 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
-
-      {% endfor %}
-    </div>
+    <!-- 3:30pm Afternoon Break -->
 
     <div class="row dotted-border dotted-top">
       <div class="col-md-6">
@@ -264,59 +97,12 @@ title: Schedule
 
 
     <!-- 4:30pm -->
-    {% assign sessions7 = site.sessions | where: "timeslot", "d1_slot7" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>4:30pm</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted7 = sessions7 | sort: "track" %}
-      {% for session in sorted7 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
-
-      {% endfor %}
-    </div>
+    {% include session_summary.html timeslot='d1_slot7' %}
 
     <!-- 5:15pm -->
-    {% assign sessions8 = site.sessions | where: "timeslot", "d1_slot8" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>5:15pm</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted8 = sessions8 | sort: "track" %}
-      {% for session in sorted8 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
+    {% include session_summary.html timeslot='d1_slot8' %}
 
-      {% endfor %}
-    </div>
-
+    <!-- 6:00 - Closing Keynote -->
     <div class="row dotted-border dotted-top">
       <div class="col-md-6">
         <div class="content">
@@ -333,6 +119,8 @@ title: Schedule
   </div>
   <div class="border-gray gray-bottom"></div>
 </section>
+
+<!-- Afterparty -->
 <section id="rsvp" class="bg-purple">
   <div class="container">
     <div class="row">
@@ -345,6 +133,8 @@ title: Schedule
     </div>
   </div>
 </section>
+
+<!-- Day Two -->
 <section class="bg-gray">
   <div class="border-gray gray-top"></div>
   <div class="container">
@@ -355,6 +145,8 @@ title: Schedule
         </div>
       </div>
     </div>
+    
+    <!-- 9:00am - Keynote -->
     <div class="row dotted-border dotted-top">
       <div class="col-md-6">
         <div class="content">
@@ -368,58 +160,11 @@ title: Schedule
       </div>
     </div>
 
-    <!-- Day 2 10:15am -->
-    {% assign sessions9 = site.sessions | where: "timeslot", "d2_slot1" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>10:15am</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted9 = sessions9 | sort: "track" %}
-      {% for session in sorted9 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
+    <!-- 10:15am -->
+    {% include session_summary.html timeslot='d2_slot1' %}
 
-      {% endfor %}
-    </div>
+    <!-- 11:00am -->
+    {% include session_summary.html timeslot='d2_slot2' %}
 
-    <!-- Day 2 11:00am -->
-    {% assign sessions10 = site.sessions | where: "timeslot", "d2_slot2" %}
-    <div class="row dotted-border dotted-top">
-      <div class="col">
-        <div class="content">
-          <time>11:00am</time>
-        </div>
-      </div>
-    </div>
-    <div class="row dotted-border">
-      {% assign sorted10 = sessions10 | sort: "track" %}
-      {% for session in sorted10 %}
-    
-        <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
-          <div class="content session">
-            <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-            <p>{{ session.title }}</p>
-            {% for object in session.speakers %}
-            {% assign speaker = site.speakers | where: "slug", object | first %}
-              <p class="speaker-name"><a href="{{ speaker.url }}">{{ speaker.name }}</a></p>
-            {% endfor%}
-          </div>
-        </div>
-
-      {% endfor %}
-    </div>
   </div>
 </section>

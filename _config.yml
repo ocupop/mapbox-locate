@@ -41,16 +41,16 @@ tracks:
   4: 'Tech Track 2'
 
 timeslots:
-  d1_slot1: 'Day 1 - 10:15am'
-  d1_slot2: 'Day 1 - 11:00am'
-  d1_slot3: 'Day 1 - 11:45am'
-  d1_slot4: 'Day 1 - 1:30pm'
-  d1_slot5: 'Day 1 - 2:15pm'
-  d1_slot6: 'Day 1 - 3:00pm'
-  d1_slot7: 'Day 1 - 4:30pm'
-  d1_slot8: 'Day 1 - 5:15pm'
-  d2_slot1: 'Day 2 - 10:15am'
-  d2_slot2: 'Day 2 - 11:00am'
+  d1_slot1: '10:15am'
+  d1_slot2: '11:00am'
+  d1_slot3: '11:45am'
+  d1_slot4: '1:30pm'
+  d1_slot5: '2:15pm'
+  d1_slot6: '3:00pm'
+  d1_slot7: '4:30pm'
+  d1_slot8: '5:15pm'
+  d2_slot1: '10:15am'
+  d2_slot2: '11:00am'
 
 stages:
   stage1: 'Stage 1'
