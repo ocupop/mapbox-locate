@@ -1,0 +1,28 @@
+.terms {
+  h1 {
+    margin-bottom: 60px;
+  }
+  h4 {
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+  }
+  ol {
+    padding-left: 20px;
+    &[type="a"] {
+      padding-left: 15px;
+      li {
+        margin-left: 5px;
+      }
+    }
+    
+    font-weight: $font-bold;
+    li {
+      font-weight: $font-bold;
+    }
+  }
+}
+
+.ol-content {
+  margin: 30px 0 30px -20px;
+  font-family: $font-regular;
+}

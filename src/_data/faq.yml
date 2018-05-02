@@ -1,0 +1,68 @@
+- question: What is locate?
+  answer_html: >-
+    <p>Locate is a brand new mapping and location tech conference hosted by <a
+    href="https://www.mapbox.com/" target="_blank">Mapbox</a>. We&rsquo;re bringing together
+    product leaders, developers, and designers to learn and explore beyond the
+    map. Locate will include keynotes from our team and major players in the
+    location data space. You&rsquo;ll be able to join code labs and workshops to
+    help you troubleshoot your own projects. You&rsquo;ll also get a chance to
+    play with our tools and demos from our users in the Exploration Hall. There
+    will be a great party, too.</p>
+- question: Who is coming?
+  answer_html: >-
+    <p>Join other developers and designers working with location data &mdash;
+    whether that&rsquo;s through autonomous driving, AR maps, or data viz.
+    Anyone solving real problems or building cool stuff is welcome to join us to
+    show off projects and talk about the changes in the space.</p>
+- question: Why should I attend?
+  answer_html: >-
+    <p>Locate is open to all explorers. Whether you use our platform, are a map
+    enthusiast or are looking to learn about the future of location data,
+    we&rsquo;ll have something for you.</p><p>You&rsquo;ll have a front row seat
+    to:</p><ul><li>Learn from successful app developers and product leads about
+    turning location into a competitive advantage</li><li>Test-drive new
+    products and hear about Mapbox&rsquo;s latest releases before anyone
+    else</li><li>Book 1:1 sessions with our teams, like Support</li><li>Connect
+    with other users to exchange workflows and workarounds</li><li>Experience
+    location-powered products firsthand, from AR goggles to
+    robocars</li></ul><p>Need to justify your trip? Download our <a
+    href="https://drive.google.com/file/d/1plQVPQt2JtATz-iRyUvMjW_xRjQQm8nO/view">letter</a>.</p><p>&nbsp;</p><p>Need
+    to justify your trip? Download our letter.</p>
+- question: How do I register?
+  answer_html: >-
+    <ul><li>You can register&nbsp;<a
+    href="https://locate.splashthat.com/">here</a>.</li><li>Onsite registration
+    will not be available.</li></ul>
+- question: >-
+    I work for a government/non-profit/education organization. Can I qualify for
+    a special rate?
+  answer_html: >-
+    <p>Yes, we offer a special rate for full-time employees of government,
+    non-profit and educational organizations. Please&nbsp;<a
+    href="javascript:void(location.href='mailto:'+String.fromCharCode(108,111,99,97,116,101,64,109,97,112,98,111,120,46,99,111,109))">contact
+    us</a>&nbsp;for more information.</p>
+- question: I am a student. Can I qualify for a special rate?
+  answer_html: >-
+    <p>Yes, we offer a student rate for those currently enrolled in college and
+    university programs. Please&nbsp;<a
+    href="javascript:void(location.href='mailto:'+String.fromCharCode(108,111,99,97,116,101,64,109,97,112,98,111,120,46,99,111,109))">contact
+    us</a>&nbsp;for more information.</p>
+- question: Where can I find a schedule or agenda for Locate?
+  answer_html: >-
+    <p>Check out a&nbsp;<a href="/schedule">sample of the sessions here</a>.
+    Confirmed speakers will be released in April.</p>
+- question: Can I register for sessions in advance?
+  answer_html: >-
+    <p>You don&rsquo;t need to register for sessions in advance. Our Locate app
+    will let you save an agenda so you wont miss the sessions you&rsquo;re
+    looking forward to.</p>
+- question: Are sponsorships available?
+  answer_html: >-
+    <p>Our team is happy to discuss how you can be involved in Locate.
+    Please&nbsp;<a
+    href="javascript:void(location.href='mailto:'+String.fromCharCode(108,111,99,97,116,101,64,109,97,112,98,111,120,46,99,111,109))">contact
+    us&nbsp;</a>for more information.</p>
+- question: Where is Pier 27?
+  answer_html: >-
+    <div id="map"></div>
+    <p>Pier 27 is located along the Embarcadero in San Francisco. As parking is extremely limited, we recommend walking, using public transportation or ride-sharing to the venue. The address is Pier 27, The Embarcadero, San Francisco, CA 94111.</p>

@@ -1,0 +1,26 @@
+#map {
+  background-color: $purple-mid;
+  padding-top: 0;
+  padding-bottom: 0;
+  .mapboxgl-popup {
+    color: $purple !important;
+    p {
+      margin-bottom:3px;
+    }
+  }
+}
+
+.locatemarker {
+  background-image: url('/assets/img/mapbox_map_pin.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 62px;
+  height: 72px;
+  cursor: pointer;
+}
+
+.hotelmarker {
+  background-image: url('/assets/img/icon-hotel.svg');
+  width: 28px;
+  height: 40px;
+}

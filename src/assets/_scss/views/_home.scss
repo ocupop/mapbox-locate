@@ -1,0 +1,35 @@
+.homepage {
+  #page-header {
+    padding-top: 50px;
+    background: transparent;
+    z-index: 100;
+    position: relative;
+  }
+}
+
+.homepage {
+  #page-content {
+    margin-top: -160px;
+  }
+}
+
+#home-speakers {
+  // background-image: url('/assets/img/bg-pattern-grid-large.png');
+  // background-size: 404px;
+  .border-purple {
+    &.purple-bottom {
+      bottom: -10px;
+    }
+  }
+}
+
+@media(max-width: $screen-md-max) {
+  .homepage {
+    #page-header {
+      padding-top: 30px;
+    }
+    #page-content {
+      margin-top: -170px;
+    }
+  }
+}

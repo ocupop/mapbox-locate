@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<section class="bg-purple single-speaker">
+  <div class="border-purple purple-top"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <p><button onclick="window.history.back();" class="btn btn-link">&larr; Back</button></p>
+          <h1>Speaker</h1>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="content">
+          <img src="{{ page.image }}" class="img-fluid" alt="{{ page.name }} image">
+        </div>
+      </div>
+      <div class="col-md-9">
+        <div class="content">
+          <div class="speaker-details">
+            <h3>{{ page.name }}</h3>
+            {% if page.role %}
+              <p>{{ page.role }}</p>
+            {% endif %}
+            {% if page.company %}
+              <p>{{ page.company}}</p>
+            {% endif %}
+          </div>
+          <div class="speaker-bio">
+            {{ page.content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

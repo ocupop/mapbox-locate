@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% assign session = page %}
+<section class="bg-purple single-speaker">
+    <div class="border-purple purple-top"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="content">
+            <p><button onclick="window.history.back();" class="btn btn-link">&larr; Back</button></p>
+            <h1>Session</h1>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-7">
+          <div class="content">
+            <div class="session-summary">
+              <h4>{{ site.timeslots[session.timeslot] }} | {{ session.room }}</h4>
+              <h2>{{ session.title }}</h2>
+              <p>{{ sesssion.summary }}</p>
+              <p><strong>Speakers:</strong> {% for speaker in sesssion.speakers %}{{ speaker.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+              <p><strong>Categories:</strong> {% for category in sesssion.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+            </div>
+            <div class="session-description">
+              {{ page.content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

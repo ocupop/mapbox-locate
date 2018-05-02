@@ -1,0 +1,122 @@
+#page-header {
+  background-image: url('/assets/img/hero-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 30px 0 45px;
+}
+
+#mainnav {
+  .nav-link {
+    font-family: $font-bold;
+    font-weight: 400;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    line-height: 1;
+    color: $white;
+    &.button {
+      padding: 10px 20px;
+      margin-top: -3px;
+      margin-left: 10px;
+    }
+  }
+  .navbar-brand {
+    width: 200px;
+  }
+}
+
+.navbar-toggler {
+  &:focus {
+    outline: none;
+  }
+  &.collapsed {
+    .navbar-toggle-icon {
+      transform: rotate(0);
+    }
+  }
+}
+
+.navbar-toggle-icon {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transform: rotate(-90deg);
+  @include transition(.3s);
+
+  .dot {
+    display: block;
+    width: 5px;
+    height: 5px;
+    background-color: $blue;
+    border-radius: 50%;
+  }
+}
+
+// Media Queries
+// Small devices (landscape phones, 576px and up)
+@media (min-width: $screen-sm-min) {}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: $screen-md-min) {}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: $screen-lg-min) {}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: $screen-xl-min) {}
+
+@media (max-width: $screen-md-max) {
+  #page-header {
+    .container {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+  #mainnav {
+    .navbar-brand {
+      width: 150px;
+      margin-left: 15px;
+    }
+    .navbar-collapse {
+      position: fixed;
+      top: 0;
+      left: 0;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 15px;
+      width: 250px;
+      height: 100%;
+      background-color: $purple;
+      z-index: 999;
+      .navbar-nav {
+        margin-top: 20px;
+      }
+      .nav-link {
+        padding: 15px 0;
+        &.button {
+          margin-left: 0;
+          margin-top: 15px;
+          text-align: center;
+        }
+      }
+    }
+    .navbar-collapse.collapsing {
+        height: 100%;
+        -webkit-transition: left 0.3s ease;
+        -o-transition: left 0.3s ease;
+        -moz-transition: left 0.3s ease;
+        transition: left 0.3s ease;
+        left: -250px;
+    }
+    .navbar-collapse.show {
+        left: 0;
+        -webkit-transition: left 0.3s ease;
+        -o-transition: left 0.3s ease;
+        -moz-transition: left 0.3s ease;
+        transition: left 0.3s ease;
+    }
+  }
+}
