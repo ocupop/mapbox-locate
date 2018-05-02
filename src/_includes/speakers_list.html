@@ -1,0 +1,43 @@
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="content">
+        <h2 class="underline">Speakers</h2>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    {% for object in site.data.speaker_order.speakers %}
+    {% assign speaker = site.speakers | where: "slug", object | first %}
+    <div class="col-md-4">
+      <div class="content">
+        <div class="speaker-card">
+          <a href="{{ speaker.url }}">
+            <div class="speaker-image" style="background-image: url('{{ speaker.image }}')"></div>
+            <h3>{{ speaker.name }}</h3>
+            {% if speaker.role %}
+              <p>{{ speaker.role }}</p>
+            {% endif %}
+            {% if speaker.company %}
+              <p>{{ speaker.company }}</p>
+            {% endif %}
+          </a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="content">
+        <div class="d-flex align-items-center justify-content-center">
+          <div class="pattern-blue">
+            <div class="pattern-content text-center">
+              More speakers will be announced shortly, stay tuned!
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
