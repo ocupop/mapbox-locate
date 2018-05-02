@@ -1,0 +1,142 @@
+---
+layout: default
+title: Donkeycar Race
+---
+<section class="bg-purple">
+  <div class="border-purple purple-top"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2 class="underline">donkeycar@locate</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <p>We’re hosting a Donkeycar Race at Locate! This race will take place Day 2 in the parking lot right next to the conference venue.</p>
+          <p>On this page, you’ll find the software you need to integrate in your car in order to be able to compete. We call it the “Donkeycar Maps SDK, ” and at its core, it uses the same technology Mapbox embeds in real-world autonomous cars.</p>
+          <p>Note: Donkeycar is our reference platform, but all types of Robocars are allowed.</p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeAr9zblHjSIk0bvAd4HqdiBafzzCG6IpotEQW2fomCYBP_wg/viewform" target="_blank" class="button">Sign Up Now!</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>donkeycar maps SDK</h2>
+          <p>The SDK is composed of two elements:</p>
+          <ul>
+            <li>A vector tile (download) that encodes the shape of the tracks for the race.</li>
+            <li>An open source Python SDK that you would use to decode the Vector Tile on-device. <a href="/assets/downloads/robocar.mvt" download>Download</a></li>
+          </ul>
+          <h2>vector tile track information</h2>
+          <p>We have encoded real GPS coordinates of the track at Locate in the vector tile. Vector ties are an open standard developed by Mapbox for caching, scaling, and serving map imagery rapidly. <a href="https://www.mapbox.com/vector-tiles/" target="_blank">You can read more about vector tiles here.</a></p>
+          <p>We can use vector tiles to encode HD maps information for autonomous driving. For this race, we’ve encoded the tracks. They look like a large L (for Locate) drawn over the parking lot:</p>
+          <p>
+            <img src="" alt="" class="img-fluid">
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="bg-gray">
+  <div class="border-gray gray-top"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>Decode the track coordinates</h2>
+          <p>Use our Python SDK to decode the binary content of the vector tiles. It’s important to note, vector tiles do not include the raw GPS coordinates. Instead, coordinates are transformed into vector tile grid coordinates.</p>
+          <p>This is the code that we used to encode the vector tile linked above. The race begins now! In order to compete on race day, you’ll need to implement code that allows you to decode the data to obtain the actual track GPS coordinates:</p>
+
+{% highlight ruby linenos %}
+import json
+import sys
+import vector_tile_base
+
+# Locate's parking lot
+origin = (-122.4020257, 37.8052695)
+
+# Encoding function
+def encode(ring):
+  return [(int((coordinate[0] - origin[0]) * 1e7),
+            int((coordinate[1] - origin[1]) * -1e7)) for coordinate in ring]
+
+# Read GeoJSJON
+source = sys.argv[1]
+target = sys.argv[2]
+
+with open(source, 'r') as geojson:
+  polygon_data = json.load(geojson)
+
+# Encode into Vector Tile
+vt = vector_tile_base.VectorTile()
+layer = vt.add_layer('robocar')
+feature = layer.add_polygon_feature()
+feature.add_ring(encode(polygon_data['geometry']['coordinates'][0]))
+
+# Save to file
+encoded_tile = vt.serialize()
+f = open(target, "wb")
+f.write(encoded_tile)
+f.close()
+{% endhighlight %}
+
+          <p>That’s all - once you’ve decoded the vector tile, you can use the coordinates to instruct your Robocar to follow the tracks. Some participants will do all analysis on-device, others will transmit the data from their on-board sensors (cameras, sonar, LIDAR, radar, GPS or whatever else you have) via WiFi to a laptop that runs pro-grade AI and robotics software, including TensorFlow, ROS or the Udacity Self-Driving Car Nanodegree toolchain. Both approaches are allowed.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bg-purple">
+  <div class="border-purple purple-top"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="content">
+          <h2>Rules and Judging</h2>
+          <p>Rules for the race:</p>
+          <ul>
+            <li>No tele-operators.</li>
+            <li>No V2V lasers to intentionally interfere with other cars.</li>
+            <li>Mapping software used to mine bitcoin needs to be disclosed to the SEC.</li>
+          </ul>
+          <p>Judging is based on four best-of-class categories:</p>
+          <ul>
+            <li>Neural networks FPS rate on front facing cameras</li>
+            <li>Localization using high percision GPS</li>
+            <li>LIDAR implementation under $100k</li>
+            <li>Last car standing</li>
+          </ul>
+          <p>We will also give awards to anyone who open sources their training model or code as part of their entry.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bg-gray">
+    <div class="border-gray gray-top"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <h2>questions</h2>
+          <p>If you have any questions about this SDK or the Robocar race <a href="mailto:antonio@mapbox.com">please email our Senior Robocar Driver.</a></p>
+          <p>For other questions about Locate, take a look at our <a href="/faq">FAQs</a> or reach out via locate@mapbox.com</p>
+        </div>
+        <div class="col-sm-6">
+          <h2>learn more</h2>
+          <ul>
+            <li><a href="https://blog.mapbox.com/chris-anderson-starts-diy-robocars-a-space-for-self-driving-developers-9171575af92e?gi=1ddd9901d708" target="_blank">Interview with Chris Anderson</a></li>
+            <li><a href="https://blog.mapbox.com/self-driving-diy-robocars-locate-6ac2ce10d38" target="_blank">Self-driving DIY Robocars @ Locate</a></li>
+            <li><a href="https://blog.mapbox.com/build-your-own-small-autonomous-robocar-41ae74927f55" target="_blank">Build your own (small) Autonomous Robocar</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
