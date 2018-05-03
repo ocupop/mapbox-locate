@@ -1,6 +1,6 @@
 .button {
   border: 1px solid $white;
-  background: transparent;
+  background-color: transparent;
   color: $white;
   padding: 5px 15px;
   @include transition(.4s);
@@ -9,5 +9,9 @@
     background-color: $white;
     color: $blue;
     border: 1px solid $blue;
+  }
+  &.pattern-orange {
+    background-color: $orange;
+    border: 0;
   }
 }
