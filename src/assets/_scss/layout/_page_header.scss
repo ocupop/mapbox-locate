@@ -19,6 +19,9 @@
       padding: 10px 20px;
       margin-top: -3px;
       margin-left: 10px;
+      &:hover {
+        color: $purple;
+      }
     }
   }
   .navbar-brand {

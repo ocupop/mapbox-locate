@@ -52,7 +52,7 @@ img.pull-right {
     background-image: url("/assets/img/border-gray.png");
     background-repeat: repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: top center;
     z-index: 90; }
     .bg-gray .border-gray.gray-top {
       top: -25px; }
@@ -83,7 +83,7 @@ img.pull-right {
   background-image: url("/assets/img/bg-pattern-grit.png");
   background-size: 100%;
   background-repeat: repeat;
-  background-position: center center;
+  background-position: top center;
   position: relative;
   color: #fff;
   overflow: visible; }
@@ -529,6 +529,8 @@ h6, .h6 {
     padding: 10px 20px;
     margin-top: -3px;
     margin-left: 10px; }
+    #mainnav .nav-link.button:hover {
+      color: #110d34; }
 #mainnav .navbar-brand {
   width: 200px; }
 
@@ -887,7 +889,7 @@ h6, .h6 {
 .homepage #page-header {
   padding-top: 50px;
   background: transparent;
-  z-index: 100;
+  z-index: 101;
   position: relative; }
 
 .homepage #page-content {
