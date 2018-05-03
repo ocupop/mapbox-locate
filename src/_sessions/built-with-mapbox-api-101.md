@@ -1,14 +1,11 @@
 ---
 layout: session
-title: 'Mapbox 101: Basics of the Mapbox APIs'
+title: 'Built with Mapbox: API 101'
 summary:
 track: '3'
-day:
 timeslot: d1_slot1
 stage:
 speakers:
 categories:
-  - Mapbox Tech Talk
-scheduled: false
+scheduled: true
 ---
-

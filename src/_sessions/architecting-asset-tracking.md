@@ -1,16 +1,12 @@
 ---
 layout: session
-title: Architecting Asset Tracking
-summary: >-
-  what are the major components of an asset tracking solution? what key
-  considerations go into standing up one?
-track:
-timeslot:
+title: 'Architecting Asset Tracking'
+summary: |
+    What are the major components of an asset tracking solution? What key considerations go into standing up one?
+track: '4'
+timeslot: d2_slot5
 stage:
 speakers:
 categories:
-  - Mapbox Tech Talk
-  - Logistics & Transportation
-scheduled: false
+scheduled: true
 ---
-
