@@ -1,7 +1,13 @@
 <header id="page-header">
   <div class="container">
     <nav id="mainnav" class="navbar navbar-expand-md navbar-light">
-      <a class="navbar-brand" href="/"><img src="/assets/img/logo-mapbox.svg" alt="{{ site.title }}"></a>
+      <a class="navbar-brand" href="/">
+        {% if page.url == '/' %}
+          <img src="/assets/img/logo-mapbox.svg" alt="{{ site.title }}">
+        {% else %}
+          <img src="/assets/img/logo-locate-interior.svg" alt="{{ site.title }}">
+        {% endif %}
+      </a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#primarynav" aria-controls="primarynav" aria-expanded="false" aria-label="Toggle navigation">
         <div class="navbar-toggle-icon">
           <span class="dot"></span>
