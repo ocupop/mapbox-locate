@@ -150,9 +150,9 @@ img.pull-right {
     background-position: center center;
     background-repeat: repeat;
     background-size: cover;
-    -webkit-transform: rotate(1deg);
-        -ms-transform: rotate(1deg);
-            transform: rotate(1deg);
+    -webkit-transform: rotate(2deg);
+        -ms-transform: rotate(2deg);
+            transform: rotate(2deg);
     z-index: 1; }
   .pattern-orange .pattern-content {
     position: relative;
