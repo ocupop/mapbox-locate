@@ -2,7 +2,7 @@
 title: Mapbox Locate
 email: dev@ocupop.com
 description: 'Mapbox’s first event celebrating and exploring the connectedness of the world around us.'
-url: "http://mapbox.com/locate"
+url: "http://locate.mapbox.com"
 permalink: /:title
 
 # Google Analytics
