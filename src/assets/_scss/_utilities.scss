@@ -68,7 +68,7 @@ img {
     background-image: url('/assets/img/border-gray.png');
     background-repeat: repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: top center;
     z-index: 90;
     &.gray-top {
       top: -25px;
@@ -90,7 +90,7 @@ img {
   background-image: url('/assets/img/bg-pattern-grit.png');
   background-size: 100%;
   background-repeat: repeat;
-  background-position: center center;
+  background-position: top center;
   position: relative;
   color: $white;
   overflow: visible;

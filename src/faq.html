@@ -18,10 +18,10 @@ title: FAQ
         <div class="content">
           <ul class="collapsable">
             {% for item in site.data.faq %}
-            <li data-toggle="collapse" data-target="#question{{ forloop.index }}" class="{% unless forloop.last %}collapsed{% endunless %}">
+            <li>
               <div class="collapse-title" class="editable">
                 <div class="question">{{ item.question }}</div>
-                <div class="icon-open">
+                <div class="icon-open" data-toggle="collapse" data-target="#question{{ forloop.index }}">
                   <span class="dot"></span>
                   <span class="dot"></span>
                   <span class="dot"></span>
