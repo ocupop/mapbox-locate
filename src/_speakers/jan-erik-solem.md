@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Jan Erik Solem
+twitter_username: 
 role: CEO
 company: Mapillary
 image: /uploads/locate-jan-erik-solem-240-8c4fff3946afbeb24eccad162b905c07.jpg

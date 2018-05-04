@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Åsa Forsell
+twitter_username: 
 role: Customer Experience Manager
 company: Rightware
 image: /uploads/locate-asa-forsell-240-57b96744502bf19e8937aa925ff79570.jpg

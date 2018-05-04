@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Lee R. Schwartz
+twitter_username: 
 role: Geographer
 company: U.S. Department of State
 image: /uploads/locate-lee-schwartz.jpg

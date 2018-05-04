@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Manik Gupta
+twitter_username: 
 role: VP of Product
 company: Uber
 image: /uploads/locate-manik-gupta-240-1a99a42ef4a5f419b42ba6e7f6e1129d.jpg

@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Walt Lin
+twitter_username: 
 role: Head of Local & Maps
 company: Snap
 image: /uploads/locate-walt-lin-240-84fe697fed0714f4cf5766ee25aea6e5.jpg

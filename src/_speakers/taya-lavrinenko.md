@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Taya Lavrinenko
+twitter_username: 
 role: Lead Cartography Designer
 company: Urbica
 image: /uploads/locate-taya-lavrinenko-240-4127ae1b4d5590d8ebaf40f31bd17deb.jpg

@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: 'John B. Rogers, Jr.'
+twitter_username: 
 role: Co-Founder & CEO
 company: LM Industries
 image: /uploads/locate-john-rogers-240-88d12b572fd907762add0cd45680c498.jpg

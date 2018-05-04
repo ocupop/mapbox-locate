@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Nikhil Naikal
+twitter_username: 
 role: CEO
 company: Mapper.ai
 image: /uploads/locate-nikhil-naikal.jpg

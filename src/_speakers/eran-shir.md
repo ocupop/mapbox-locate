@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Eran Shir
+twitter_username: 
 role: Co-Founder & CEO
 company: Nexar
 image: /uploads/locate-eran-shir-240-c2835fceb5f3c01a336ec07e2b5543d9.jpg

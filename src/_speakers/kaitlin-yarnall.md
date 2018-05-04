@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Kaitlin Yarnall
+twitter_username: 
 role: VP of Media Innovation
 company: National Geographic Society
 image: /uploads/locate-kaitlin-yarnall-240-ec3018725a885823fe3000b93d440c4f.jpg

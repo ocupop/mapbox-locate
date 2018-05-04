@@ -849,7 +849,7 @@ h6, .h6 {
     margin-bottom: 0;
     line-height: 1.4; }
   .speaker-card a {
-    color: #fff; }
+    color: #ff7c62; }
     .speaker-card a:hover {
       text-decoration: none; }
 
@@ -1010,6 +1010,10 @@ time {
     font-family: "cera_probold", sans-serif;
     margin-bottom: 0;
     line-height: 1.4; }
+  .speaker-details a {
+    color: #ff7c62; }
+    .speaker-details a:hover {
+      text-decoration: none; }
 
 .speaker-bio {
   color: #cecece; }

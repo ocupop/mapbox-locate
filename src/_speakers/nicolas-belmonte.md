@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Nicolas Belmonte
+twitter_username: 
 role: Head of Visualization
 company: Uber
 image: /uploads/locate-nicolas-belmonte-240-c49f500d06109ada01f9987c654815d8.jpg

@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Kent Marten
+twitter_username: 
 role: 'Principal Product Manager, Maps and Spatial Analysis'
 company: Tableau
 image: /uploads/locate-kent-marten-240-8c2c765cf509806aa265bbeeab4c16d7.jpg

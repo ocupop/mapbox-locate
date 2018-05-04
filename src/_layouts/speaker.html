@@ -23,6 +23,9 @@ layout: default
         <div class="content">
           <div class="speaker-details">
             <h3>{{ page.name }}</h3>
+            {% if page.twitter_username %}
+              <a href="https://twitter.com/{{ page.twitter_username }}" target="_blank">@{{ page.twitter_username }}</a>
+            {% endif %}
             {% if page.role %}
               <p>{{ page.role }}</p>
             {% endif %}

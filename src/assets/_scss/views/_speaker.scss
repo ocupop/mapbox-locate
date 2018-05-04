@@ -5,6 +5,12 @@
     margin-bottom: 0;
     line-height: 1.4;
   }
+  a {
+    color: $orange;
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
 
 .single-speaker {

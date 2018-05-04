@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Emily Miller
+twitter_username: 
 role: President
 company: Soulside Network
 image: /uploads/locate-emily-miller-240-9064aaf16baf91f4dab50dc1326a2521.jpg

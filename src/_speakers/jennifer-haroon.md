@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Jennifer Haroon
+twitter_username: 
 role: 'Vice President, Strategy & Business Operations'
 company: Nauto
 image: /uploads/locate-jennifer-haroon-240-ced2fd0b363eeebddcb6fce2803b1167.jpg

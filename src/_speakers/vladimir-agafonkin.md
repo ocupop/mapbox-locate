@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Vladimir Agafonkin
+twitter_username: 
 role: Engineer
 company: Mapbox
 image: /uploads/locate-vladimir-agafonkin-240-cad70cc7fe34721fb1e061f48926d688.jpg

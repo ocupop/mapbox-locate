@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Bruno Sánchez-Andrade Nuño
+twitter_username: 
 role: VP Impact
 company: Satellogic
 image: >-

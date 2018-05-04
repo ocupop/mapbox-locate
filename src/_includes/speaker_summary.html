@@ -1,12 +1,15 @@
 <div class="speaker-card">
-  <a href="{{ speaker.url }}">
-    <div class="speaker-image" style="background-image: url('{{ speaker.image }}')"></div>
+    <a href="{{ speaker.url }}">
+      <div class="speaker-image" style="background-image: url('{{ speaker.image }}')"></div>
+    </a>
     <h3>{{ speaker.name }}</h3>
+    {% if speaker.twitter_username %}
+      <a href="https://twitter.com/{{ speaker.twitter_username }}" target="_blank">@{{ speaker.twitter_username }}</a>
+    {% endif %}
     {% if speaker.role %}
       <p>{{ speaker.role }}</p>
     {% endif %}
     {% if speaker.company %}
       <p>{{ speaker.company }}</p>
     {% endif %}
-  </a>
 </div>

@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Vrajesh Bhavsar
+twitter_username: 
 role: Senior Ecosystem Manager, Machine Learning
 company: Arm
 image: /uploads/locate-vrajesh-bhavsar.jpg 

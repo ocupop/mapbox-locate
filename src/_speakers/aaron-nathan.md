@@ -1,6 +1,7 @@
 ---
 layout: speaker
 name: Aaron Nathan
+twitter_username:
 role: CEO
 company: Point One Navigation
 image: /uploads/locate-aaron-nathan-240-9ec817ce08697d01c09bf65363c941b0.jpg
