@@ -917,21 +917,21 @@ h6, .h6 {
   .session-highlight p {
     margin-bottom: 0; }
 
-.session {
+.session-summary {
   padding: 30px 50px; }
-  .session h3 {
+  .session-summary h3 {
     font-family: "cera_proregular", sans-serif;
     margin-bottom: 0; }
-  .session p {
+  .session-summary p {
     margin-bottom: 0;
     font-family: "cera_probold", sans-serif; }
-  .session a {
+  .session-summary a {
     color: #110d34; }
-  .session .speaker-name {
+  .session-summary .speaker-name {
     font-family: "cera_proitalic", sans-serif; }
-  .session .track {
+  .session-summary .track {
     padding-left: 0; }
-    .session .track::before {
+    .session-summary .track::before {
       left: -30px;
       top: 5px; }
 

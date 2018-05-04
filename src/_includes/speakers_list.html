@@ -11,18 +11,7 @@
     {% assign speaker = site.speakers | where: "slug", object | first %}
     <div class="col-md-4">
       <div class="content">
-        <div class="speaker-card">
-          <a href="{{ speaker.url }}">
-            <div class="speaker-image" style="background-image: url('{{ speaker.image }}')"></div>
-            <h3>{{ speaker.name }}</h3>
-            {% if speaker.role %}
-              <p>{{ speaker.role }}</p>
-            {% endif %}
-            {% if speaker.company %}
-              <p>{{ speaker.company }}</p>
-            {% endif %}
-          </a>
-        </div>
+        {% include speaker_summary.html speaker=speaker %}
       </div>
     </div>
     {% endfor %}
