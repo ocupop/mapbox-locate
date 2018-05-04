@@ -7,5 +7,7 @@ timeslot: d1_slot1
 stage:
 speakers:
 categories:
+  - Mapbox Tech Talk
 scheduled: true
 ---
+
