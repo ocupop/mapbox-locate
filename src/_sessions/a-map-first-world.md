@@ -6,7 +6,8 @@ summary: |
 track: '1'
 timeslot: d2_slot1
 stage:
-speakers:
-categories:
+speakers: Sebastien Westerduin, Founder & Managing Director; Woov 
+          Alex White, VP of Product; Weedmaps [@lexwhitela](https://twitter.com/alexwhitela)
+categories: Consumer
 scheduled: true
 ---
