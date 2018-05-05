@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Nathan Williams
-twitter_username: 
+twitter_username: nathanmwilliams
 role: Managing Director
 company: Town Hall Project
 image: /uploads/locate-nathan-williams-240-419b4b121df68eed94f6d4b9bc28bedd.jpg
