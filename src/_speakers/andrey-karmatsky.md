@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Andrey Karmatsky
-twitter_username: 
+twitter_username: karmatsky
 role: CEO
 company: Urbica
 image: /uploads/locate-andrey-karmatsky-240-a869c5f3f2cd01070258a911e95c9664.jpg
