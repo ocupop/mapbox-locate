@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Camilla Mahon
-twitter_username: 
+twitter_username: camillacaros
 role: Satellite Product Manager
 company: Mapbox
 image: /uploads/locate-camilla-mahon-240-5f1544a13e5bc3d78922ed57a38548ab.jpg
