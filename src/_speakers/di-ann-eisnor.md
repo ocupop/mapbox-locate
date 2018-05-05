@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Di-Ann Eisnor
-twitter_username: 
+twitter_username: DiAnnEisnor
 role: Director of Growth
 company: Google
 image: /uploads/locate-di-ann-eisnor-240-b6914797613bf69f33aa0f55d1f4f24c.jpg
