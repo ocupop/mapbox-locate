@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Amy Lee Walton
-twitter_username: 
+twitter_username: amyleew
 role: Designer Experience and Engagement Lead
 company: Mapbox
 image: /uploads/locate-amy-lee-walton-240-d7a2245938bcd82728858a3ee6a5e441.jpg
