@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Erik Hersman
-twitter_username: 
+twitter_username: whiteafrican
 role: CEO
 company: BRCK
 image: /uploads/locate-erik-hersman-240-d5eac60962bc2ac60cdf9f8684977e4d.jpg
