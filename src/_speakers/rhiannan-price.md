@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Rhiannan Price
-twitter_username: 
+twitter_username: rhiprice
 role: 'Director, Global Development Program'
 company: DigitalGlobe
 image: /uploads/locate-rhiannan-price-240-550626f6fc719ab73961bac1e49dbde2.jpg
