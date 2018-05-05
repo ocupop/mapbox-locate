@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Eric Gundersen
-twitter_username: 
+twitter_username: ericg
 role: CEO
 company: Mapbox
 bio_html:
