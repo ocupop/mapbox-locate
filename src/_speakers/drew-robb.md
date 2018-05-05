@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Drew Robb
-twitter_username: 
+twitter_username: drewrobb
 role: Staff Infrastructure Engineer
 company: Strava
 image: /uploads/locate-drew-robb-240-79c2defe054543dd9f394eb9863c5cc7.jpg
