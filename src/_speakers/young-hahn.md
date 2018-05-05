@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Young Hahn
-twitter_username: 
+twitter_username: younghahn
 role: CTO
 company: Mapbox
 image: /uploads/locate-young-hahn-360-76ce316bc16e932f3438ff984a31be5b.jpg
