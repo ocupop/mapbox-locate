@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Gabriele Almon
-twitter_username: 
+twitter_username: gabrielealmon
 role: Crisis Informatics Lead
 company: NetHope
 image: /uploads/locate-almon-240-4ff6a236353c69f3393b1140614e90a0.jpg
