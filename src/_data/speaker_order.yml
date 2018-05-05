@@ -1,19 +1,19 @@
 # Set the order of the speakers
 speakers:
+  - di-ann-eisnor
+  - gary-knell
+  - manik-gupta
   - eric-gundersen
   - young-hahn
   - vladimir-agafonkin
   - gabriele-almon
   - nicolas-belmonte
-  - di-ann-eisnor
   - åsa-forsell
-  - manik-gupta
   - jennifer-haroon
   - erik-hersman
   - forrest-iandola
   - emily-jacobi
   - andrey-karmatsky
-  - gary-knell
   - taya-lavrinenko
   - walt-lin
   - camilla-mahon
