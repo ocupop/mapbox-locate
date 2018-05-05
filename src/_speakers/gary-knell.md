@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Gary Knell
-twitter_username: 
+twitter_username: garyknell
 role: CEO
 company: National Geographic Partners
 image: /uploads/locate-gary-knell-240-20ffcf093766f8423e4ea0b0858505fb.jpg
