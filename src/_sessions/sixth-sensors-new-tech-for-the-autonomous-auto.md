@@ -7,5 +7,7 @@ timeslot: d1_slot3
 stage:
 speakers:
 categories:
+  - Auto / Mobility
 scheduled: true
 ---
+
