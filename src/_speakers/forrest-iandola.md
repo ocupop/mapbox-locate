@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Forrest Iandola
-twitter_username: 
+twitter_username: fiandola
 role: CEO
 company: DeepScale
 image: /uploads/locate-forrest-iandola-240-90ba9737773e9ff9b9f4589ea2c1c457.jpg
