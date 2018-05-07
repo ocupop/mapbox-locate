@@ -3,7 +3,7 @@ title: Mapbox Locate
 email: dev@ocupop.com
 description: 'Mapbox’s first event celebrating and exploring the connectedness of the world around us.'
 url: "http://locate.mapbox.com"
-permalink: /:title
+permalink: /:title/
 
 # Google Analytics
 analytics_code: 
@@ -12,10 +12,10 @@ analytics_code:
 collections:
   speakers:
     output: true
-    permalink: /speaker/:path
+    permalink: /speaker/:path/
   sessions:
     output: true
-    permalink: /sessions/:path  
+    permalink: /sessions/:path/  
 
 # Build settings
 safe: false
