@@ -2,8 +2,8 @@
 layout: session
 title: 'New Frontier: Mapping in China'
 summary: >-
-  Mapping in China has it's own unique challenges. How companies are using
-  mapbox to build out map assets in that country.
+  Mapping in China has it's own unique challenges. Learn how companies are using
+  Mapbox to build out map assets seamlessly in and out of China.
 track: '3'
 timeslot: d2_slot2
 stage:
