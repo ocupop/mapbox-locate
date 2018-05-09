@@ -4,5 +4,6 @@ name: Rachel Vecchitto
 twitter_username:
 role:
 company:
-image:
+image: /uploads/rachel-vecchitto-bw.jpg
 ---
+
