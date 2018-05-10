@@ -1,13 +1,13 @@
-- question: What is locate?
+- question: What is Locate?
   answer_html: >-
-    <p>Locate is a brand new mapping and location tech conference hosted by <a
-    href="https://www.mapbox.com/" target="_blank">Mapbox</a>. We&rsquo;re bringing together
-    product leaders, developers, and designers to learn and explore beyond the
-    map. Locate will include keynotes from our team and major players in the
-    location data space. You&rsquo;ll be able to join code labs and workshops to
-    help you troubleshoot your own projects. You&rsquo;ll also get a chance to
-    play with our tools and demos from our users in the Exploration Hall. There
-    will be a great party, too.</p>
+    <p>Locate is a brand new mapping and location tech fest hosted by <a
+    target="_blank" href="https://www.mapbox.com/">Mapbox</a>. We&rsquo;re
+    bringing together product leaders, developers, and designers to learn and
+    explore beyond the map. Locate will include keynotes from our team and major
+    players in the location data space. You&rsquo;ll be able to join code labs
+    and workshops to help you troubleshoot your own projects. You&rsquo;ll also
+    get a chance to play with our tools and demos from our users in the
+    Exploration Hall. There will be a great party, too.</p>
 - question: Who is coming?
   answer_html: >-
     <p>Join other developers and designers working with location data &mdash;
@@ -26,8 +26,7 @@
     with other users to exchange workflows and workarounds</li><li>Experience
     location-powered products firsthand, from AR goggles to
     robocars</li></ul><p>Need to justify your trip? Download our <a
-    href="https://drive.google.com/file/d/1plQVPQt2JtATz-iRyUvMjW_xRjQQm8nO/view">letter</a>.</p><p>&nbsp;</p><p>Need
-    to justify your trip? Download our letter.</p>
+    href="https://drive.google.com/file/d/1plQVPQt2JtATz-iRyUvMjW_xRjQQm8nO/view">letter</a>.</p>
 - question: How do I register?
   answer_html: >-
     <ul><li>You can register&nbsp;<a
@@ -49,8 +48,8 @@
     us</a>&nbsp;for more information.</p>
 - question: Where can I find a schedule or agenda for Locate?
   answer_html: >-
-    <p>Check out a&nbsp;<a href="/schedule">sample of the sessions here</a>.
-    Confirmed speakers will be released in April.</p>
+    <p>You can find our <a href="/schedule">schedule here</a>. Please note:
+    Session times may shift.&nbsp;</p>
 - question: Can I register for sessions in advance?
   answer_html: >-
     <p>You don&rsquo;t need to register for sessions in advance. Our Locate app
@@ -64,5 +63,48 @@
     us&nbsp;</a>for more information.</p>
 - question: Where is Pier 27?
   answer_html: >-
-    <div id="map"></div>
-    <p>Pier 27 is located along the Embarcadero in San Francisco. As parking is extremely limited, we recommend walking, using public transportation or ride-sharing to the venue. The address is Pier 27, The Embarcadero, San Francisco, CA 94111.</p>
+    <div id="map">&nbsp;</div><p>Pier 27 is located along the Embarcadero in San
+    Francisco. As parking is extremely limited, we recommend walking, using
+    public transportation or ride-sharing to the venue. The address is Pier 27,
+    The Embarcadero, San Francisco, CA 94111.</p>
+- question: What accessibility accommodations are available?
+  answer_html: >-
+    <p>Locate is a big celebration for our community and we want to make the
+    experience accessible for as many attendees as we can.</p><p>In
+    Locate&rsquo;s first year, we aim to be explicit in what accommodations will
+    and will not be available on site. Read more below. If you have any
+    questions, email us at <a
+    href="mailto:locate@mapbox.com?subject=Accessibility%20at%20Locate">locate@mapbox.com</a>.</p><p><strong>What
+    accommodations will be made for Locate attendees?</strong></p><ul><li>Pier
+    27 is a state-of-the-art cruise ship terminal and is fully
+    ADA-compliant.&nbsp;</li><li>The 1st floor entrance is completely
+    flat-surfaced, providing entry at street level (no stairs or curbs). It is
+    also equipped with an elevator, escalator, and stairs leading to the second
+    level to accommodate all levels of mobility.</li><li>Both the 1st and 2nd
+    floors have wheel-chair accessible, gender-neutral
+    restrooms.</li><li>Certified service animals are permitted.</li><li>Attendee
+    meals will include vegetarian, vegan, and gluten-free options. All items
+    will be labeled with ingredients.</li></ul><p><strong>Will there be ASL and
+    live transcription?</strong><br />We will accommodate for panelists and
+    participants on an as-needed basis. If you require these services, please <a
+    href="mailto:locate@mapbox.com?subject=ASL%20at%20Locate">let us
+    know</a>.</p><p><strong>What language translation services are
+    available?</strong><br />We&rsquo;re excited that people are coming from
+    around the world to join us at Locate. We plan to run Locate in English
+    only. If you&rsquo;d like to pair up with another participant with
+    proficiency in another language, we can try and <a
+    href="mailto:locate@mapbox.com?subject=Translating%20at%20Locate">make that
+    match</a>.</p><p><strong>What accommodations might be made for
+    parents?</strong>Childcare services will not be provided on site. Children
+    up to the age of 12 are welcome to join you at Locate (please supervise them
+    at all times!)</p><p>If you require a nursing room, <a
+    href="mailto:locate@mapbox.com?subject=Family%20Accommodations%20at%20Locate">please
+    advise so we can make appropriate accommodations for you</a>.&nbsp;<br /><br
+    /><strong>Will religious or prayer rooms be available?</strong><br />We will
+    not have designated prayer spaces at this event.</p><p><strong>Are there
+    sobriety support groups available?</strong><br />Community resources are
+    available for sobriety support during Locate. Below are links to some of the
+    meetings happening on those days:</p><ul><li>Alcoholics Anonymous: <a
+    href="https://aasf.org"
+    target="_blank">https://aasf.org</a></li><li>Narcotics Anonymous: <a
+    href="http://sfna.org" target="_blank">http://sfna.org</a></li></ul>
