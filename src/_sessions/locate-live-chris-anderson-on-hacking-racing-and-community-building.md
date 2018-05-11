@@ -1,8 +1,6 @@
 ---
 layout: session
-title: >-
-  Human to Machine Interfaces: Designing the autonomous world and putting humans
-  first
+title: 'Self-driving DIY Robocars: Donkeycars - the dream'
 summary: >-
   Learn how Chris is creating a new surface area for developers to start working
   on self-driving car tech, once again pairing open source projects and
