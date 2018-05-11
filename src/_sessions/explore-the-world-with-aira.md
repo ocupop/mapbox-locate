@@ -1,11 +1,12 @@
 ---
 layout: session
-title: Explore the world with Aira
+title: 'You’re blind and you’re lost: Click "OnStar" built into your glasses'
 summary: >-
-  Using augmented reality, Aira connects people who are blind or low vision to a
-  trained professional agent who is dedicated to further enhancing their
-  everyday experience. Hear how AR and location services make real-world impact
-  on thousands of people's lives.
+  In one tap, your glasses turn into a camera and you hear a voice from hundreds
+  of miles away in your right ear, “This is Stacy from Aira. What can I help you
+  with?” Stacy is now looking through her terminal, seeing what is right in
+  front of you, and where you are on the map. In this session, hear how AR and
+  location services make real-world impact on thousands of people's lives.
 track: '2'
 timeslot: d1_slot8
 stage:
