@@ -1,9 +1,12 @@
 ---
 layout: session
-title: 'See the Points: Location data visualization and Uber'
+title: Uber Visualization
 summary: >-
-  Uber's Nicolas Belmonte talks about how Uber uses data visualization to get a
-  handle on their worldwide business.
+  Nicolas Garcia Belmonte, Uber’s head of data visualization, will show off
+  Uber’s open source data visualization tools. Uber uses these tools internally
+  to visualize massive sets of LIDAR data on pick-up and drop-off experiences.
+  Open sourcing the project helps teams quickly and easily visualize and explore
+  their own datasets.
 track: '1'
 timeslot: d1_slot6
 stage:
