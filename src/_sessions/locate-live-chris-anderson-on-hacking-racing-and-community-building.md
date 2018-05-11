@@ -1,9 +1,21 @@
 ---
 layout: session
-title: 'Locate Live: Chris Anderson on hacking, racing, and community building'
+title: >-
+  Human to Machine Interfaces: Designing the autonomous world and putting humans
+  first
 summary: >-
-  Chris Anderson, CEO of 3DR and a early pioneer in hacker communities, talks
-  about what it takes to build from scratch.
+  Learn how Chris is creating a new surface area for developers to start working
+  on self-driving car tech, once again pairing open source projects and
+  community events at the foundation of a new industry. 
+
+
+  In 2007, Chris Anderson—NY Times best-selling author and at the time the
+  editor-in-chief of Wired magazine—built his first drone at home with his kids
+  using parts from a Lego Mind Machine. In 2012 he would co-found 3D Robotics,
+  creating the world's largest community of DIY drone makers and the world’s
+  leading open autopilot platform. Fast forward to today, Chris is CEO of 3DR,
+  and now starting his latest side project, Donkeycar racing. Yes, the opening
+  question will of be ‘Ok, WTF is a “Donkeycar”?’
 track: '2'
 timeslot: d1_slot2
 stage:
