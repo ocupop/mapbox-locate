@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Sixth Sensors: New tech for the autonomous auto'
+title: 'Sixth Sensors: New Tech for the Autonomous Auto'
 summary:
 track: '1'
 timeslot: d1_slot3
