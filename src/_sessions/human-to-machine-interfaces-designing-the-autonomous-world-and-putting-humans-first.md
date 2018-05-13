@@ -5,7 +5,7 @@ title: >-
   First
 summary:
 timeslot: d1_slot6
-stage: stage3
+stage:
 speakers:
   - åsa-forsell
 categories:
