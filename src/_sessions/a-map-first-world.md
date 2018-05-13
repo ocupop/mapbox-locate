@@ -1,14 +1,16 @@
 ---
 layout: session
-title: A map first world
+title: A Map First World
 summary: >-
-  Maps used to be the last click in a consumer app: you'd scroll down a long
-  list, find what you want, and only after looking for it on a map. But today's
-  consumers expect apps to know where they are and orient the experience around
-  their location. In this session, you'll hear how companies are designing and
-  building map-first apps for today's consumers.
-track: '1'
-timeslot: d2_slot1
+  Maps and location are an integral part of consumer app experiences. Today’s
+  consumers often need to know where something is, before they even need to know
+  what it is. Location serves as the backbone for information displayed to the
+  user, and a map-first UI can be more relevant than a list or text-first UI in
+  many cases. In this session, we’ll deconstruct popular consumer apps to
+  understand how they are integrating maps and location into their experiences
+  to engage their users better.
+track: '2'
+timeslot: d2_slot2
 stage:
 speakers:
 categories:
