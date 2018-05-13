@@ -8,7 +8,7 @@ summary: >-
   John B. Rogers Jr., Co-Founder and CEO of LM Industries talks about the
   advances in manufacturing that allow him to innovate.
 timeslot: d2_slot3
-stage: stage1
+stage:
 speakers:
   - john-b--rogers-jr-
 categories:
