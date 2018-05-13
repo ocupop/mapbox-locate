@@ -1,12 +1,13 @@
 ---
 layout: session
-title: 'Built with Mapbox: Live map in 30 minutes or less - or it’s free!'
-summary: Crowdsource an idea from the crowd and build a map in 30 minutes.
+title: Live Map in 30 Minutes or Less - or it’s Free!
+summary: >-
+  Join Dana Sulit as she takes an idea from the crowd and shows how to build a
+  custom map with Mapbox Studio in 30 minutes or less!
 track: '4'
 timeslot: d1_slot1
 stage:
 speakers:
-  - amy-lee-walton
 categories:
   - Mapbox Tech Talk
 scheduled: true
