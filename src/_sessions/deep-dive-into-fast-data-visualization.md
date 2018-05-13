@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Deep dive into fast data visualization
+title: Deep Dive into Fast Data Visualization
 summary:
 track: '4'
 timeslot: d1_slot8
