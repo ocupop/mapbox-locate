@@ -1,6 +1,6 @@
 ---
 layout: session
-title: The best billion dollars ever spent
+title: The Best Billion Dollars Ever Spent
 summary: >-
   “We have to spend billions of dollars on maps and it's worth it” Larry Page
   said to CNN. From the early days of Google Maps to the launch of crowdsourcing
