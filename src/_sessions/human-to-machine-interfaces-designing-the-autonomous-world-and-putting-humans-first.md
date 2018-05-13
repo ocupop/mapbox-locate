@@ -10,6 +10,6 @@ speakers:
   - åsa-forsell
 categories:
   - Auto / Mobility
-scheduled: false
+scheduled: true
 ---
 
