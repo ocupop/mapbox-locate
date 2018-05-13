@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Get outdoors and explore: Maps in retail and consumer tech'
+title: 'Get Outdoors and Explore: Maps in Retail and Consumer Tech'
 summary: >-
   Strava, REI, and Rever build unique maps to inspire people to get outside and
   explore the world. In this session, we'll dive into what makes their datasets
@@ -11,6 +11,7 @@ timeslot: d1_slot6
 stage:
 speakers:
   - drew-robb
+  - rachel-vecchitto
 categories:
   - Consumer
 scheduled: true
