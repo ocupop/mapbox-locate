@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Architecting asset tracking
+title: Architecting Asset Tracking
 summary: >-
   What are the major components of an asset tracking solution? What key
   considerations go into standing up one?
