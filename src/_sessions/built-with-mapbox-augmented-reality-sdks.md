@@ -1,9 +1,9 @@
 ---
 layout: session
-title: 'Built with Mapbox: Augmented Reality SDKs'
+title: Augmented Reality SDKs
 summary: >-
-  Hands on session on how to use Mapbox SDKs to build AR into a broad range of
-  applications.
+  After hearing about the future of AR, head to this hands-on session to learn
+  how to use Mapbox SDKs to build AR into a broad range of applications.
 track: '4'
 timeslot: d1_slot5
 stage:
