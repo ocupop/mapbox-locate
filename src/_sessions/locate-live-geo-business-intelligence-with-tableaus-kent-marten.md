@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Locate Live: Geo Business Intelligence with Tableau’s Kent Marten'
+title: 'Show Me the Money: Big Data in Tableau is Big Dollars'
 summary: >-
   Tableau’s Senior Product manager Kent Marten talks about why tableau is using
   geospatial data visualization to help customers understand business
