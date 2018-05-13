@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'You’re blind and you’re lost: Click "OnStar" built into your glasses'
+title: 'You’re Blind and You’re Lost: Click "OnStar" Built into Your Glasses'
 summary: >-
   In one tap, your glasses turn into a camera and you hear a voice from hundreds
   of miles away in your right ear, “This is Stacy from Aira. What can I help you
