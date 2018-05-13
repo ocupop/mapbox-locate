@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Are we there yet? Precise ETAs and granular traffic data
+title: Are We There Yet? Precise ETAs and Granular Traffic data
 summary:
 track: '3'
 timeslot: d1_slot8
