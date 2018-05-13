@@ -1,10 +1,11 @@
 ---
 layout: session
-title: 'Built with Mapbox: Navigation in your app'
+title: Navigation in Your App in Under 5 Minutes
 summary: >-
-  Mapbox GL is the most flexible, customizable map renderer. Data-driven
-  styling, Runtime styling, and custom data layers enable developers to mix
-  their own data into Mapbox basemaps with the best performance.
+  The Mapbox Navigation SDK empowers developers to simply add point-to-point
+  navigation to their app in a few lines of code. In this session, you'll learn
+  how the Navigation SDK works, how Mapbox is developing Navigation, and how you
+  can add it your app in just 5 minutes.
 track: '3'
 timeslot: d1_slot5
 stage:
