@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Self-driving DIY Robocars: Donkeycars - the dream'
+title: 'Self-driving DIY Robocars: Donkeycars - the Dream'
 summary: >-
   Learn how Chris is creating a new surface area for developers to start working
   on self-driving car tech, once again pairing open source projects and
