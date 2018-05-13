@@ -6,6 +6,6 @@ timeslot: d2_slot5
 stage:
 speakers:
 categories:
-scheduled: false
+scheduled: true
 ---
 
