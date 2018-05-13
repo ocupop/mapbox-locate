@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Maps on Snap: The bitmoji world driving engagement on Snapchat'
+title: 'Maps on Snap: The Bitmoji World Driving Engagement on Snapchat'
 summary: >-
   Snapchat's 18x million users saw a 40% growth in messages submitted to its
   Stories feature after starting Snap Maps, which completely changes the way we
