@@ -1,8 +1,8 @@
 ---
 layout: session
 title: >-
-  Human to Machine Interfaces: Designing the autonomous world and putting humans
-  first
+  Human to Machine Interfaces: Designing the Autonomous World and Putting Humans
+  First
 summary:
 timeslot: d1_slot6
 stage: stage3
