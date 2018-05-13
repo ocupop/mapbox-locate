@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Built with Mapbox: Hackbox — Creative misuse cases'
+title: Hackbox — Creative Misuse Cases
 summary: >-
   One of the beauties of the Mapbox ecosystem is its flexibility. Over the
   years, I've loved finding slightly unconventional ways to utilize our product.
@@ -19,8 +19,8 @@ summary: >-
   tilemill to new-school Studio) are the nexus of transcendence. OK, maybe that
   is a bit flowery, but the idea is this: you shouldn't let norms and traditions
   define your approach, and our tools help you get weird with ease.
-track: '2'
-timeslot: d2_slot3
+track: '3'
+timeslot: d2_slot4
 stage:
 speakers:
 categories:
