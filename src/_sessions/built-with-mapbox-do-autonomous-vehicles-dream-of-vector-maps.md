@@ -8,7 +8,7 @@ summary: >-
   would make great maps. Come learn how to go from sketch to styling. You bring
   your imagination; we'll bring the magic carpet!
 track: '3'
-timeslot: d1_slot6
+timeslot: d2_slot6
 stage:
 speakers:
   - amy-lee-walton
