@@ -1,13 +1,12 @@
 ---
 layout: session
-title: 'Cities: No more guessing, lots more knowing'
+title: 'Cities: No More Guessing, Lots More Knowing'
 summary:
-timeslot:
+timeslot: d2_slot1
 stage:
 speakers:
-  -
 categories:
-  -
-scheduled: false
+  - Community
+scheduled: true
 ---
- 
+
