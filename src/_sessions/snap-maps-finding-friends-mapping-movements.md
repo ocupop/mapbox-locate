@@ -4,7 +4,8 @@ title: 'Maps on Snap: The Bitmoji World Driving Engagement on Snapchat'
 summary: >-
   Snapchat's 18x million users saw a 40% growth in messages submitted to its
   Stories feature after starting Snap Maps, which completely changes the way we
-  explore the world, discover content, and connect with friends. 
+  explore the world, discover content, and connect with friends. Hear from Walt
+  Lin on why Snap wanted to build a unique map and how they did it. 
 
 
   Hear from Walt Lin, Head of Local & Maps, on why Snap wanted to build a unique
