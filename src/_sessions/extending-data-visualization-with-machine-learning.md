@@ -1,9 +1,9 @@
 ---
 layout: session
-title: Extending data visualization with machine learning
+title: Extending Data Visualization with Machine Learning
 summary: >-
-  With Mapbox's upcoming machine learning capabilities, companies will be able
-  to take on new data visualization challenges previously not possible.
+  With Mapbox's upcoming machine learning capabilities, learn how companies will
+  be able to take on new data visualization challenges previously not possible.
 track: '3'
 timeslot: d2_slot3
 stage:
