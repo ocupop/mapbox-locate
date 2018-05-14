@@ -1,7 +1,7 @@
 ---
 layout: session
 title: >-
-  Locate Live: Lightening Talks with Rebelle Rally’s Emily Miller & Satellogic's
+  Locate Live: Lightning Talks with Rebelle Rally’s Emily Miller & Satellogic's
   Bruno Sanchez
 summary: >-
   1. No GPS, no phones: Off-roading with Emily Miller 
