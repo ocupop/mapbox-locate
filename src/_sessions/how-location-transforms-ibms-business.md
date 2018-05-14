@@ -9,7 +9,7 @@ summary: >-
   walk through the history of this evolution and provide examples of how IBM is
   using real-time location data and weather predictions to expand their business
   today.
-timeslot: d2_slot5
+timeslot: d1_slot5
 stage:
 speakers:
   - ron-baker
