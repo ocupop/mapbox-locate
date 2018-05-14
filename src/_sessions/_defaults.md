@@ -2,6 +2,7 @@
 layout: session
 title:
 summary:
+track:
 timeslot:
 stage:
 speakers:
