@@ -9,6 +9,7 @@ summary: >-
   harder than anything we have ever done in mapping to date. Hear the stories
   from the people building the invisible map and how they see AR permeating our
   daily experiences in the real world.
+track: '2'
 timeslot: d1_slot1
 stage:
 speakers:

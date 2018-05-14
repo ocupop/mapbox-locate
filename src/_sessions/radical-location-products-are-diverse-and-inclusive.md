@@ -10,6 +10,7 @@ summary: >-
   with engineers and researchers to translate massive datasets into superlative
   code and design. Learn how these leaders are leveraging diversity to discover
   unmet user needs and building tech that raises the bar for inclusion.
+track: '1'
 timeslot: d2_slot5
 stage:
 speakers:

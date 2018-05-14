@@ -9,6 +9,7 @@ summary: >-
   group of local government officials, nonprofits, and engineers who have mapped
   similar need areas to talk about what solutions might exist in the data and
   mapping space.
+track: '2'
 timeslot: d2_slot3
 stage:
 speakers:

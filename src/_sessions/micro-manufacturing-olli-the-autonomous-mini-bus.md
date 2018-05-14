@@ -7,6 +7,7 @@ summary: >-
   weeks, and new micro-factories are about to be launched across the country.
   John B. Rogers Jr., Co-Founder and CEO of LM Industries talks about the
   advances in manufacturing that allow him to innovate.
+track: '1'
 timeslot: d2_slot3
 stage:
 speakers:

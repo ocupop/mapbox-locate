@@ -12,6 +12,7 @@ summary: >-
   devices and reduces storage size for larger area coverage offline. In this
   session, you'll get a look at how open source code has impacted this project
   and where it is going.
+track: '4'
 timeslot: d1_slot6
 stage:
 speakers:
