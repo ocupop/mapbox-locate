@@ -2,7 +2,7 @@
 layout: session
 title: 'Locate Live: A Window into Planet Earth with Gary Knell & Lee Schwartz'
 summary: >-
-  **1. National Geographic Historical Map Collection**  
+  1. National Geographic Historical Map Collection  
 
   <br>
 
@@ -19,7 +19,7 @@ summary: >-
 
   <br>
 
-  **2. The Geographer of the United States of America** 
+  2. The Geographer of the United States of America
 
   <br>
 
