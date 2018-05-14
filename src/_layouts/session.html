@@ -17,7 +17,14 @@ layout: default
         <div class="col-md-7">
           <div class="content">
             <div>
-              <h4>{{ site.timeslots[session.timeslot] }}{% if session.room %} | {{ session.room }}{% endif %}</h4>
+              <h4>
+                {{ site.timeslots[session.timeslot] }}{% if session.room %} | {{ session.room }}{% endif %}
+                {% if session.timeslot contains 'd1_' %}
+                  - May 30th
+                {% else if session.timeslot contains 'd2_' %}
+                  - May 31st
+                {% endif %}
+              </h4>
               <h2>{{ session.title }}</h2>
               <p>{{ session.summary }}</p>
               <hr>
