@@ -2,8 +2,9 @@
 layout: session
 title: 'Locate Live: A Window into Planet Earth with Gary Knell & Lee Schwartz'
 summary: >-
-  1. National Geographic Historical Map Collection  
+  **1. National Geographic Historical Map Collection**  
 
+  <br>
 
   Since the beginning of time, humans have been explorers. And since an 1889
   edition of the magazine, National Geographic has been making maps that tell of
@@ -14,9 +15,13 @@ summary: >-
   Geographic Society, long-term independence and the resources to map a whole
   new world. Hear Gary's unique perspective in this lightning talk. 
 
+  <br>
 
-  2. The Geographer of the United States of America 
+  <br>
 
+  **2. The Geographer of the United States of America** 
+
+  <br>
 
   An invasion of Costa Rica by Nicaragua at first looks like an error in Google
   maps. When the Ministry of Foreign Affairs complained to Google, it revealed
