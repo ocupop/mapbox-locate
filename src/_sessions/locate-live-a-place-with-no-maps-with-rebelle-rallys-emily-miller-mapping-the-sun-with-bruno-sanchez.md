@@ -8,13 +8,19 @@ summary: >-
 
   <br>
 
+  <br>
+
   Thirty-six all-women race teams. 2,000 kilometers. 8-day race across the
   desert. Hear how Emily Miller started The Rebelle Rally, a women’s endurance
   rally across the Nevada and California deserts. 
 
   <br>
 
+  <br>
+
   2. Earth-size explosions on the Sun. 
+
+  <br>
 
   <br>
 
