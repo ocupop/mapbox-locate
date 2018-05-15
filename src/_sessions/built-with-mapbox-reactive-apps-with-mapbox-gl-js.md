@@ -2,7 +2,7 @@
 layout: session
 title: Reactive Apps with Mapbox GL JS
 summary: >-
-  This talk will take a look at how to use the Mapbox GL JS API in a "creactive"
+  This talk will take a look at how to use the Mapbox GL JS API in a "reactive"
   programming context. We'll use concrete examples to dig into some of the
   common issues and questions that come up when using Mapbox GL JS in a React
   application: Can I declaratively set up the map layers and style? How should I
@@ -14,7 +14,7 @@ stage:
 speakers:
 categories:
   - Mapbox Tech Talk
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
