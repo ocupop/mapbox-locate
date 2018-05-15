@@ -1,3 +1,6 @@
+.session-title {
+  font-family: $font-bold;
+}
 .session-highlight {
   background-color: $blue;
   padding: 25px 20px;
@@ -19,7 +22,6 @@
   }
   p {
     margin-bottom: 0;
-    font-family: $font-bold;
   }
   a {
     color: $purple;
@@ -35,6 +37,7 @@
     }
   }
 }
+
 
 .track-legend {
   display: flex;

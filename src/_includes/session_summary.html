@@ -15,7 +15,7 @@
     <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
       <div class="content session-summary">
         <h3 class="track track{{ session.track }}">{{ site.stages[session.stage] }}</h3>
-        <p><a href="{{ session.url }}">{{ session.title }}</a></p>
+        <p class="session-title"><a href="{{ session.url }}">{{ session.title }}</a></p>
         <p>{{ session.short_summary }}</p>
         {% for object in session.speakers %}
         {% assign speaker = site.speakers | where: "slug", object | first %}

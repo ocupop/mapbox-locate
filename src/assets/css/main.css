@@ -906,6 +906,9 @@ h6, .h6 {
 #faq #map {
   margin-bottom: 20px; }
 
+.session-title {
+  font-family: "cera_probold", sans-serif; }
+
 .session-highlight {
   background-color: #4264fb;
   padding: 25px 20px;
@@ -923,8 +926,7 @@ h6, .h6 {
     font-family: "cera_proregular", sans-serif;
     margin-bottom: 0; }
   .session-summary p {
-    margin-bottom: 0;
-    font-family: "cera_probold", sans-serif; }
+    margin-bottom: 0; }
   .session-summary a {
     color: #110d34; }
   .session-summary .speaker-name {
