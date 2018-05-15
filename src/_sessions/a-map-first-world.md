@@ -15,6 +15,7 @@ stage:
 speakers:
 categories:
   - Consumer
-short_summary: 
+short_summary: Testing
 scheduled: true
 ---
+
