@@ -18,6 +18,7 @@ stage:
 speakers:
 categories:
   - Auto / Mobility
+short_summary: 
 scheduled: true
 ---
 

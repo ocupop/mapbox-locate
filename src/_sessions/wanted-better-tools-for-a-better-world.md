@@ -17,6 +17,7 @@ speakers:
   - rhiannan-price
 categories:
   - Community
+short_summary: 
 scheduled: true
 ---
 

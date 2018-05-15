@@ -14,6 +14,7 @@ speakers:
   - rachel-vecchitto
 categories:
   - Consumer
+short_summary: 
 scheduled: true
 ---
 

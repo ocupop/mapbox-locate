@@ -18,6 +18,7 @@ speakers:
   - di-ann-eisnor
 categories:
   - Logistics & Transportation
+short_summary: 
 scheduled: false
 ---
 

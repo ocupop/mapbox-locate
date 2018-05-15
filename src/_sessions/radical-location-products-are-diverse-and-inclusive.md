@@ -18,6 +18,7 @@ speakers:
   - cady-wacshman
 categories:
   - Community
+short_summary: 
 scheduled: true
 ---
 

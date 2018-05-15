@@ -15,6 +15,6 @@ speakers:
   - brett-marraccini
 categories:
   - Mapbox Tech Talk
+short_summary: 
 scheduled: true
 ---
-

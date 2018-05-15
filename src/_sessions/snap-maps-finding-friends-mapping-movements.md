@@ -17,6 +17,7 @@ speakers:
   - walt-lin
 categories:
   - Consumer
+short_summary: 
 scheduled: true
 ---
 

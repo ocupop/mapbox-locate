@@ -14,6 +14,7 @@ speakers:
   - vrajesh-bhavsar
 categories:
   - Auto / Mobility
+short_summary: 
 scheduled: true
 ---
 

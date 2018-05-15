@@ -9,5 +9,6 @@ speakers:
   -
 categories:
   -
+short_summary: 
 scheduled: false
 ---  

@@ -13,6 +13,7 @@ speakers:
 categories:
   - Logistics & Transportation
   - Mapbox Tech Talk
+short_summary: 
 scheduled: true
 ---
 

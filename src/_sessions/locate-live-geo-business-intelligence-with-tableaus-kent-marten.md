@@ -12,6 +12,7 @@ speakers:
   - kent-marten
 categories:
   - BI & Data Visualization
+short_summary: 
 scheduled: true
 ---
 

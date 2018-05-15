@@ -14,6 +14,7 @@ speakers:
   - john-b--rogers-jr-
 categories:
   - Auto / Mobility
+short_summary: 
 scheduled: false
 ---
 

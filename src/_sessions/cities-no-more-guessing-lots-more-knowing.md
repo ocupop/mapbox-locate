@@ -8,6 +8,7 @@ stage:
 speakers:
 categories:
   - Community
+short_summary: 
 scheduled: true
 ---
 

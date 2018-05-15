@@ -15,6 +15,7 @@ speakers:
 categories:
   - Mapbox Tech Talk
   - Auto / Mobility
+short_summary: 
 scheduled: true
 ---
 

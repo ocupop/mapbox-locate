@@ -20,6 +20,7 @@ stage:
 speakers:
 categories:
   - General
+short_summary: 
 scheduled: true
 ---
 

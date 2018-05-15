@@ -9,6 +9,7 @@ speakers:
 categories:
   - BI & Data Visualization
   - Logistics & Transportation
+short_summary: 
 scheduled: true
 ---
 

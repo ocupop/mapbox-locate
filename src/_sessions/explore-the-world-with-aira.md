@@ -14,6 +14,7 @@ speakers:
 categories:
   - AR /  VR / Unity
   - Community
+short_summary: 
 scheduled: true
 ---
 

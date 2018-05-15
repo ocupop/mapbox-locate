@@ -11,6 +11,7 @@ speakers:
 categories:
   - AR /  VR / Unity
   - Consumer
+short_summary: 
 scheduled: true
 ---
 

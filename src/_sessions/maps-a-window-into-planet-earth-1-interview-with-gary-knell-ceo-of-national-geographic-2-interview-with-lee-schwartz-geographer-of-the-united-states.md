@@ -45,6 +45,7 @@ speakers:
   - lee-r-schwartz
 categories:
   - Community
+short_summary: 
 scheduled: true
 ---
 

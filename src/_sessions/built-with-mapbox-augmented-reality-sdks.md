@@ -11,6 +11,7 @@ speakers:
 categories:
   - AR /  VR / Unity
   - Mapbox Tech Talk
+short_summary: 
 scheduled: true
 ---
 

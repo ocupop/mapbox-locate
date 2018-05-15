@@ -17,6 +17,7 @@ timeslot: d2_slot5
 stage:
 speakers:
 categories:
+short_summary: 
 scheduled: false
 ---
 

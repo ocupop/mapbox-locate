@@ -11,6 +11,7 @@ speakers:
   - åsa-forsell
 categories:
   - Auto / Mobility
+short_summary: 
 scheduled: true
 ---
 

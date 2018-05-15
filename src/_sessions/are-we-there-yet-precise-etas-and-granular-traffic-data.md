@@ -8,6 +8,7 @@ stage:
 speakers:
 categories:
   - Logistics & Transportation
+short_summary: 
 scheduled: true
 ---
 

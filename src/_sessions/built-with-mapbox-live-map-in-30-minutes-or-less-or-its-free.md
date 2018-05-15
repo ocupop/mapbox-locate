@@ -10,6 +10,7 @@ stage:
 speakers:
 categories:
   - Mapbox Tech Talk
+short_summary: 
 scheduled: true
 ---
 

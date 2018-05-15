@@ -11,6 +11,7 @@ speakers:
   - an-tian-yu
 categories:
   - Consumer
+short_summary: 
 scheduled: true
 ---
 

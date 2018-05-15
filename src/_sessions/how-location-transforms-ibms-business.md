@@ -16,6 +16,7 @@ speakers:
   - ron-baker
 categories:
   - BI & Data Visualizations
+short_summary: 
 scheduled: true
 ---
 

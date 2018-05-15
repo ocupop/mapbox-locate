@@ -11,6 +11,7 @@ speakers:
   - camilla-mahon
 categories:
   - BI & Data Visualization
+short_summary: 
 scheduled: true
 ---
 

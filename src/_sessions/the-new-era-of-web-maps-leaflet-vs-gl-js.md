@@ -17,6 +17,7 @@ speakers:
 categories:
   - Mapbox Tech Talk
   - BI & Data Visualization
+short_summary: 
 scheduled: true
 ---
 

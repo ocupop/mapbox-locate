@@ -37,6 +37,7 @@ speakers:
   - bruno-sánchez-andrade-nuño
 categories:
   - General
+short_summary: 
 scheduled: true
 ---
 

@@ -15,6 +15,6 @@ stage:
 speakers:
 categories:
   - Consumer
+short_summary: 
 scheduled: true
 ---
-

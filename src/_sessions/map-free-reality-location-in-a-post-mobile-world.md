@@ -15,6 +15,7 @@ stage:
 speakers:
 categories:
   - AR / VR / Unity
+short_summary: 
 scheduled: true
 ---
 
