@@ -10,10 +10,12 @@ track: '3'
 timeslot: d1_slot5
 stage:
 speakers:
+  - bobby-sudekum
+  - pablo-guardiola
 categories:
   - Logistics & Transportation
   - Mapbox Tech Talk
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
