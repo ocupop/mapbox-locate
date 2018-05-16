@@ -18,9 +18,10 @@ track: '2'
 timeslot: d1_slot2
 stage:
 speakers:
+  - eric-gundersen
 categories:
   - General
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
