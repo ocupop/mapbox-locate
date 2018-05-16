@@ -19,6 +19,7 @@ timeslot: d1_slot2
 stage:
 speakers:
   - eric-gundersen
+  - chris-anderson
 categories:
   - General
 short_summary:
