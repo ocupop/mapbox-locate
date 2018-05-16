@@ -16,9 +16,10 @@ track: '4'
 timeslot: d1_slot6
 stage:
 speakers:
+  - blake-thompson
 categories:
   - Auto / Mobility
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
