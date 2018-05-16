@@ -12,9 +12,10 @@ stage:
 speakers:
   - drew-robb
   - rachel-vecchitto
+  - paul-veugen
 categories:
   - Consumer
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
