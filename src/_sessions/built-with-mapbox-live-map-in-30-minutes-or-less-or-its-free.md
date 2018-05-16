@@ -8,9 +8,10 @@ track: '4'
 timeslot: d1_slot1
 stage:
 speakers:
+  - dana-sulit
 categories:
   - Mapbox Tech Talk
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
