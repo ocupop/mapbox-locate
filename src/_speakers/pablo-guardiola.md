@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Pablo Guardiola
-twitter_username:
+twitter_username: Guardiola31337
 role: Engineer
 company: Mapbox
 image: /uploads/pablo-guardiola-bw.jpg
