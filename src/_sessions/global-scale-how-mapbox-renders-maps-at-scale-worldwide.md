@@ -10,9 +10,10 @@ track: '3'
 timeslot: d1_slot3
 stage:
 speakers:
+  - aaron-williams
 categories:
   - Mapbox Tech Talk
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
