@@ -9,9 +9,10 @@ track: '1'
 timeslot: d1_slot5
 stage:
 speakers:
+  - stefan-seltz-axmacher
 categories:
   - Auto / Mobility
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
