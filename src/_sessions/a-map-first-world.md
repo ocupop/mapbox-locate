@@ -14,6 +14,8 @@ timeslot: d2_slot2
 stage:
 speakers:
   - ben-bajarin
+  - judd-schoenholtz
+  - alex-white
 categories:
   - Consumer
 short_summary:
