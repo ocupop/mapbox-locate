@@ -15,9 +15,10 @@ timeslot: d1_slot7
 stage:
 speakers:
   - walt-lin
+  - bersabel-tadesse
 categories:
   - Consumer
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
