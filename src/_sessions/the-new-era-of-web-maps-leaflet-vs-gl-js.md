@@ -10,14 +10,14 @@ summary: >-
   switching from one to the other. Vlad will also give his perspective on the
   future of web mapping and what he’s excited about next.
 track: '4'
-timeslot: d2_slot2
+timeslot: d2_slot3
 stage:
 speakers:
   - vladimir-agafonkin
 categories:
   - Mapbox Tech Talk
   - BI & Data Visualization
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
