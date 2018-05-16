@@ -8,9 +8,10 @@ track: '3'
 timeslot: d1_slot1
 stage:
 speakers:
+  - dave-cole
 categories:
   - Mapbox Tech Talk
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
