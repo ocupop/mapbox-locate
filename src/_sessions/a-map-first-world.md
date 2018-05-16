@@ -13,6 +13,7 @@ track: '2'
 timeslot: d2_slot2
 stage:
 speakers:
+  - ben-bajarin
 categories:
   - Consumer
 short_summary:
