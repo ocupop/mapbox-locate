@@ -23,20 +23,21 @@ summary: >-
 
   <br>
 
+  Maps can make events and changes in other parts of the world understandable to
+  people where they are. Ira Ehrenpreis of DBL Partners talks with Gary Knell,
+  CEO of National Geographic and Lee Schwartz, Geographer of the United States
+  about how their organizations use maps to tell critical stories that affect
+  the sustainability of the planet.
+
+  <br>
+
   An invasion of Costa Rica by Nicaragua at first looks like an error in Google
   maps. When the Ministry of Foreign Affairs complained to Google, it revealed
   the mapping data of the region was obtained from the U.S. Department of State.
   During this lightning talk, you'll hear from  Lee Schwartz, The Geographer of
   the United States of America (GOTUS), and head of the Humanitarian Information
   Unit (HIU), the mapping team at US State Department, managing official
-  international country boundaries recognized by the U.S. Government. 
-
-
-  Maps can make events and changes in other parts of the world understandable to
-  people where they are. Ira Ehrenpreis of DBL Partners talks with Gary Knell,
-  CEO of National Geographic and Lee Schwartz, Geographer of the United States
-  about how their organizations use maps to tell critical stories that affect
-  the sustainability of the planet.
+  international country boundaries recognized by the U.S. Government.
 track: '2'
 timeslot: d1_slot3
 stage:
@@ -45,7 +46,7 @@ speakers:
   - lee-r-schwartz
 categories:
   - Community
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
