@@ -2,7 +2,7 @@
 layout: speaker
 name: Adam Debreczeni
 twitter_username: heyadam
-role: Director or AR
+role: Director of AR
 company: Mapbox
 image: /uploads/adam-debreczeni-bw.jpg
 ---
