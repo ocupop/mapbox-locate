@@ -2,7 +2,7 @@
 layout: speaker
 name: Ceci Alvarez
 twitter_username: acalvarez03
-role: Product Strategy Lead
+role: Product Strategy
 company: Mapbox
 image: /uploads/ceci-alvarez-bw.jpg
 ---
