@@ -20,7 +20,7 @@ collections:
 # Build settings
 safe: false
 source: src
-
+include: ['.well-known']
 exclude:
   - src/assets/_img
   - src/assets/_js
