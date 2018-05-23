@@ -15,12 +15,18 @@
     font-size: 18px;
     line-height: 1;
     color: $white;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
     &.button {
       padding: 10px 20px;
       margin-top: -3px;
       margin-left: 10px;
       &:hover {
         color: $purple;
+        text-decoration: none;
       }
     }
   }

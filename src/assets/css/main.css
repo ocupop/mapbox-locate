@@ -525,12 +525,15 @@ h6, .h6 {
   font-size: 18px;
   line-height: 1;
   color: #fff; }
+  #mainnav .nav-link:hover {
+    text-decoration: underline; }
   #mainnav .nav-link.button {
     padding: 10px 20px;
     margin-top: -3px;
     margin-left: 10px; }
     #mainnav .nav-link.button:hover {
-      color: #110d34; }
+      color: #110d34;
+      text-decoration: none; }
 #mainnav .navbar-brand {
   width: 200px; }
 
@@ -903,9 +906,6 @@ h6, .h6 {
     padding-top: 30px; }
   .homepage #page-content {
     margin-top: -170px; } }
-#faq #map {
-  margin-bottom: 20px; }
-
 .session-title {
   font-family: "cera_probold", sans-serif; }
 
