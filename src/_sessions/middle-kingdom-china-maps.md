@@ -8,7 +8,6 @@ stage: stage1
 speakers:
   - an-tian-yu
   - darwin-lu
-  - amy-lee-walton
 short_summary:
 scheduled: true
 ---

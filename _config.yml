@@ -61,3 +61,4 @@ stages:
   stage2: 'Main Stage South'
   stage3: 'Ground Floor'
   stage4: 'Code Lab'
+  lounge: 'First Floor Lounge'
