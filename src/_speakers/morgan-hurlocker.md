@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Morgan Hurlocker
+name: Morgan Herlocker
 twitter_username: morganherlocker
 role: Engineer
 company: Mapbox
