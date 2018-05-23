@@ -10,6 +10,7 @@ stage: stage1
 speakers:
   - manik-gupta
   - di-ann-eisnor
+  - marc-prioleau
 categories:
   - Logistics & Transportation
 short_summary: 
