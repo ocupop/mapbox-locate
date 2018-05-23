@@ -6,8 +6,8 @@ summary: >-
 timeslot: d2_slot5
 stage: stage1
 speakers:
-  - adam-debreczeni
   - timoni-west
+  - adam-debreczeni
 categories:
   - AR / VR / Unity
 short_summary: 
