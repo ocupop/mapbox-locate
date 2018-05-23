@@ -2,7 +2,7 @@
 layout: session
 title: Mapbox API 101
 summary: >-
-  Get an overview of the Mapbox APIs and SDKs. Dan Swick and Nadia Barbosa from Mapbox give an overview of the Mapbox stack and key APIs.
+  Mapbox’s APIs that let you build just about anything you want. Dan Swick and Nadia Barbosa from Mapbox give an overview of the Mapbox stack and key APIs.
 timeslot: d1_slot5
 stage: stage3
 speakers:

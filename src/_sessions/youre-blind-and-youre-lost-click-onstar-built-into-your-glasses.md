@@ -6,6 +6,7 @@ summary: >-
 timeslot: d1_slot8
 stage: stage2
 speakers:
+  - austin-marron
 categories:
   - AR / VR / Unity
   - Community

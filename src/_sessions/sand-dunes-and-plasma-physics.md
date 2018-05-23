@@ -1,9 +1,8 @@
 ---
 layout: session
-title: >-
-  Locate Live: Lightning Talks with Rebelle Rally’s Emily Miller & Satellogic's
-  Bruno Sanchez
-summary:
+title: 'Sand Dunes and Plasma Physics'
+summary: >-
+  What do sand dunes and plasma physics have in common. No clue but this will be fun.
 timeslot: d1_slot8
 stage: stage1
 speakers:

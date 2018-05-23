@@ -7,10 +7,10 @@ timeslot: d2_slot3
 stage: stage3
 speakers:
   - virginia-ng
+  - matti-kakkori
   - nicolas-waissbluth
 categories:
   - BI & Data Visualization
 short_summary: 
 scheduled: true
 ---
-
