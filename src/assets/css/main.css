@@ -1041,6 +1041,9 @@ time {
   margin: 30px 0 30px -20px;
   font-family: "cera_proregular", sans-serif; }
 
+#faq #map {
+  margin-bottom: 20px; }
+
 @-webkit-keyframes cardSlideIn {
   from {
     opacity: 0;
