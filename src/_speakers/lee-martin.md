@@ -2,7 +2,7 @@
 layout: speaker
 name: Lee Martin
 twitter_username:
-role:
+role: Designer and Developer
 company:
 image: /uploads/lee-martin-bw.jpg
 ---
