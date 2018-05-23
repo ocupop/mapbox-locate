@@ -26,17 +26,24 @@ layout: default
                 {% endif %}
               </h4>
               <h2>{{ session.title }}</h2>
+              <p>{{ site.stages[session.stage] }}</p>
               <p>{{ session.summary }}</p>
+              <div class="session-description">
+                {{ page.content }}
+              </div>
               <hr>
               {% if session.speakers %}
-                <p><strong>Speakers:</strong> {% for object in session.speakers %}{% assign speaker = site.speakers | where: "slug", object | first %}{{ speaker.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+                <p>
+                  <strong>Speakers:</strong>
+                    {% for object in session.speakers %}
+                      {% assign speaker = site.speakers | where: "slug", object | first %}
+                      <a href="{{ speaker.url }}">{{ speaker.name }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </p>
               {% endif %}
               {% if session.categories.size != 0 %}
                 <p><strong>Categories:</strong> {% for category in session.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
               {% endif %}
-            </div>
-            <div class="session-description">
-              {{ page.content }}
             </div>
           </div>
         </div>

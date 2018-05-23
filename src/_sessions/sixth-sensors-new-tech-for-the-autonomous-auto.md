@@ -9,9 +9,8 @@ summary: >-
   reality: LiDAR, computer vision, and the software that pulls them together.
   This panel will look at how those technologies will evolve with experts from
   the key fields.
-track: '1'
 timeslot: d1_slot3
-stage:
+stage: stage1
 speakers:
   - forrest-iandola
   - nikhil-naikal

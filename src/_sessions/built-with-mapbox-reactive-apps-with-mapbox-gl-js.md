@@ -8,10 +8,10 @@ summary: >-
   application: Can I declaratively set up the map layers and style? How should I
   handle events? What's the best way to hook up the map with React's component
   lifecycle? How can I coordinate state between the map and the rest of my app?
-track: '4'
 timeslot: d2_slot1
-stage:
+stage: stage4
 speakers:
+  - anand-thakker
 categories:
   - Mapbox Tech Talk
 short_summary:

@@ -1,14 +1,13 @@
 ---
 layout: session
-title: Navigation in Your App in Under 5 Minutes
+title: Navigation in Your App
 summary: >-
-  The Mapbox Navigation SDK empowers developers to simply add point-to-point
-  navigation to their app in a few lines of code. In this session, you'll learn
-  how the Navigation SDK works, how Mapbox is developing Navigation, and how you
-  can add it your app in just 5 minutes.
-track: '3'
-timeslot: d1_slot5
-stage:
+  The Mapbox Navigation SDK empowers developers to simply add point to point
+  navigation to their app in a few lines of code. This session will cover how
+  the Navigation SDK works, how Mapbox is developing Navigation, and how you
+  can add it your app in 5 minutes.
+timeslot: d1_slot1
+stage: stage4
 speakers:
   - bobby-sudekum
   - pablo-guardiola

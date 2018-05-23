@@ -7,9 +7,8 @@ summary: >-
   Pixelmonster as an internal tool used to craft the Mapbox Satellite map. And
   its transformation into an outward facing API that enables satellite, aerial,
   and drone imagery providers to manage and distribute their imagery at scale.
-track: '4'
-timeslot: d1_slot4
-stage:
+timeslot: d1_slot3
+stage: stage3
 speakers:
   - camilla-mahon
   - brett-marraccini

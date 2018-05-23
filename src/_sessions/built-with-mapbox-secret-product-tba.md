@@ -2,9 +2,8 @@
 layout: session
 title: 'Built With Mapbox: Secret Product TBA'
 summary:
-track: '3'
 timeslot: d1_slot8
-stage:
+stage: stage3
 speakers:
 categories:
 short_summary:

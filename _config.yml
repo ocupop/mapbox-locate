@@ -57,7 +57,7 @@ timeslots:
   d2_slot6: '3:45pm'
 
 stages:
-  stage1: 'Stage 1'
-  stage2: 'Stage 2'
-  stage3: 'Stage 3'
-  stage4: 'Stage 4'
+  stage1: 'Big Main Stage (500)'
+  stage2: 'Little Main Stage (230)'
+  stage3: 'Downstairs (100)'
+  stage4: 'Code Lab (60)'

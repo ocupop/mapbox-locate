@@ -1,7 +1,7 @@
 {% assign sessions = site.sessions | where: "timeslot", include.timeslot %}
 
 {% assign special = sessions | where: "track", "special" %}
-{% assign sorted = sessions | where_exp: "sess", "sess.track != 'special'" | sort: "track" %}
+{% assign sorted = sessions | sort: "stage" | where_exp: "sess", "sess.track != 'special'" %}
 
 <div class="row dotted-border dotted-top">
   <div class="col">
@@ -39,7 +39,7 @@ First all the normal track sessions
   {% endcomment %}
   <div class="row">
     {% for session in special %}
-      <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
+      <div class="col-md-6">
         <div class="content session-summary">
           <h3 class="track">{{ site.stages[session.stage] }}</h3>
           <p class="session-title"><a href="{{ session.url }}">{{ session.title }}</a></p>
