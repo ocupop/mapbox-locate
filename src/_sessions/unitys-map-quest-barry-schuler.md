@@ -11,6 +11,7 @@ timeslot: d1_slot4
 stage: stage1
 speakers:
   - barry-schuler
+  - roy-ng
 categories:
   - AR / VR / Unity
 short_summary: 

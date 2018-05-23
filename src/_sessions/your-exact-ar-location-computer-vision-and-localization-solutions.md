@@ -9,6 +9,7 @@ speakers:
   - edward-miller
   - matt-miesnieks
   - jameson-detweiler
+  - ceci-alvarez
 categories:
   - AR / VR / Unity
 short_summary: 
