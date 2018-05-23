@@ -5,7 +5,7 @@ summary:
 timeslot: d1_slot7
 stage: stage3
 speakers:
-  - morgan-hurlocker
+  - morgan-herlocker
 categories:
   - Logistics & Transportation
 short_summary:
