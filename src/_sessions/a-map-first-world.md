@@ -7,10 +7,11 @@ timeslot: d2_slot2
 stage: stage2
 speakers:
   - aaron-london
-  - ben-bajarin
   - judd-schoenholtz
+  - cady-wacshman
   - alex-white
   - sebastien-westerduin
+  - ben-bajarin
 categories:
   - Consumer
 short_summary:
