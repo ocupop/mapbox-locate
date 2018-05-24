@@ -11,7 +11,11 @@ speakers:
   - wei-luo
 categories:
   - Auto / Mobility
-short_summary: 
+short_summary: >-
+  Advancements in microprocessors and tech like Tensorflow processors are moving mapping back to the network edge where devices will interpret the world around them with new sensor.
 scheduled: true
+featured: true
+featured_img: /assets/img/uber-suv.jpeg
+featured_order: 3
 ---
 

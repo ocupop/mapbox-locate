@@ -13,8 +13,12 @@ speakers:
   - marc-prioleau
 categories:
   - Logistics & Transportation
-short_summary: 
+short_summary: >-
+  From the early days of Google Maps to the launch of crowdsourcing via sensors on your phone with Waze — hear the story behind the living network of decentralized sensors mapping the world live. 
 scheduled: true
+featured: true
+featured_img: /assets/img/road-lines.png
+featured_order: 4
 ---
 
 Hear from Manik Gupta and Di-Ann Eisnor on how they led the transformation of

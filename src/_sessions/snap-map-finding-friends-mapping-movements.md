@@ -10,7 +10,11 @@ speakers:
   - bersabel-tadesse
 categories:
   - Consumer
-short_summary:
+short_summary: >-
+  Snapchat's 180 million users saw a 40% growth in messages submitted to its Stories feature after starting Snap Map.
 scheduled: true
+featured: true
+featured_img: /assets/img/snap-map.jpeg
+featured_order: 2
 ---
 

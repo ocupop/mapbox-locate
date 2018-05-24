@@ -11,4 +11,7 @@ categories:
   -
 short_summary: 
 scheduled: false
----  
+featured: false
+featured_img:
+featured_order:
+---

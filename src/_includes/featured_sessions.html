@@ -1,0 +1,13 @@
+{% assign featured = site.sessions | where: "featured", true | sort: "featured_order" %}
+
+<div class="row mt-3">
+  {% for session in featured %}
+    <div class="col-md-6 col-lg-4">
+      <div class="content session-summary">
+        <img src="{{ session.featured_img }}" class="img-fluid featured-session-image" />
+        <p class="session-title"><a href="{{ session.url }}">{{ session.title }}</a></p>
+        <p>{{ session.short_summary }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

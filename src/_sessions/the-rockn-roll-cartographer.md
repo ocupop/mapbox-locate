@@ -9,7 +9,11 @@ speakers:
   - lee-martin
   - paul-goodman
 categories:
-short_summary: 
+short_summary: >-
+  From satellite-imagery flyovers with Marilyn Manson to guerilla coordinate marketing with Guns’N’Roses, location has been at the heart of Lee Martin’s work in the music industry.
 scheduled: true
+featured: true
+featured_img: '/assets/img/gnr-appetite.png'
+featured_order: 6
 ---
 
