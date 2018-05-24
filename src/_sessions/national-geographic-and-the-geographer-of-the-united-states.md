@@ -6,7 +6,7 @@ title: >-
 summary: >-
   CEO of National Geographic, Gary Knell,  and the Geographer of the United
   States, Lee Schwartz, talk cartography, sustainability of the planet, and how
-  software is changing this age old field. Tesla and Mapbox Board Member Ira
+  software is changing this age-old field. Tesla and Mapbox Board Member Ira
   Ehrenpreis of DBL Partners will facilitate the conversation.
 
 
@@ -25,9 +25,9 @@ summary: >-
   Lee Schwartz, Geographer of the United States
 
   The invasion of Costa Rica by Nicaragua at first looks like an error in Google
-  maps. When the Ministry of Foreign Affairs complained to Google it revealed
+  maps. When the Ministry of Foreign Affairs complained to Google, it revealed
   the mapping data of the region was obtained from the U.S. Department of State.
-  This lightening talk you hear from  Lee Schwartz, The Geographer of the United
+  This lightning talk, you hear from  Lee Schwartz, the Geographer of the United
   States of America (GOTUS), and head of the The Humanitarian Information Unit
   (HIU) the mapping team at US State Department, managing official international
   country boundaries recognized by the U.S. Government.
