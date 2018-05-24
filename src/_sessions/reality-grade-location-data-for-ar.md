@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Map-Free Reality: Location in a Post-Mobile World'
+title: 'Reality-Grade Location Data for AR'
 summary: >-
   As static 2D maps fade away with the bezels of mobile phones, the future
   interfaces for navigation and gaming exist in augmented reality. App

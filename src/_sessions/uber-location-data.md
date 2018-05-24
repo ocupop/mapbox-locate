@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Spotlight: Visualizing 480 Million Uber Rides"
+title: "Uber Location Data"
 summary: >-
   Whether it’s visualizing surge pricing zones or analyzing drivers’ preferred routes across a city, Uber is a pioneer in advanced location data visualization. Nicolas Belmonte (Senior Engineering Manager, Data Visualization at Uber) will walk through the visualization infrastructure Uber has built and what’s coming next as they expand operations to 80 countries.
 timeslot: d1_slot6

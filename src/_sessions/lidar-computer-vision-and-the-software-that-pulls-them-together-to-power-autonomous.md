@@ -1,6 +1,6 @@
 ---
 layout: session
-title: 'Sixth Sensors: New Tech for the Autonomous Auto'
+title: 'LiDAR, Computer Vision, and the Software that Pulls them Together to Power Autonomous'
 summary: >-
   If we’re going to replace drivers in the car, technologies that allow sensing
   and perception are going to have to mimic the human ability to understand the
