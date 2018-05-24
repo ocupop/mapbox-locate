@@ -41,6 +41,8 @@ tracks:
   4: 'Tech Track 2'
 
 timeslots:
+  d1_breakfast: '7:30am'
+  d1_lunch: '12:10pm'
   d1_slot1: '10:55am'
   d1_slot2: '11:40am'
   d1_slot3: '1:15pm'
@@ -49,6 +51,8 @@ timeslots:
   d1_slot6: '3:45pm'
   d1_slot7: '4:30pm'
   d1_slot8: '5:15pm'
+  d2_breakfast: '8:00am'
+  d2_lunch: '12:15pm'
   d2_slot1: '9:30am'
   d2_slot2: '10:15am'
   d2_slot3: '1:30pm'
@@ -62,3 +66,5 @@ stages:
   stage3: 'Ground Floor'
   stage4: 'Code Lab'
   lounge: 'First Floor Lounge'
+  hall: 'Exploration Hall'
+  entrance: 'Main Entrance'

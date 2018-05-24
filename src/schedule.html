@@ -28,23 +28,35 @@ title: Schedule
     <div class="row">
       <div class="col">
         <div class="content">
-          <h2>day 1</h2>
+          <h2 id="day1">day 1 - May 30th</h2>
         </div>
       </div>
     </div>
     
+    <!-- Breakfast and Registration -->
     <div class="row dotted-border dotted-top">
       <div class="col-md-6">
         <div class="content">
-          <time>7:30am</time>
+          <time>{{ site.timeslots['d1_breakfast'] }}</time>
         </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
         <div class="content session-summary">
+          <h3 class="track">{{ site.stages['entrance'] }}</h3>
           <p class="session-title">Registration Opens</p>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="content session-summary">
+          <h3 class="track">{{ site.stages['hall'] }}</h3>
           <p class="session-title">Breakfast</p>
         </div>
       </div>
     </div>
 
+    <!-- Opening Keynote -->
     <div class="row dotted-border dotted-top">
       <div class="col-md-6">
         <div class="content">
@@ -64,14 +76,14 @@ title: Schedule
     <!-- 11:30am -->
     {% include session_summary.html timeslot='d1_slot2' %}
 
-    <!-- 12:00pm - Lunch -->
+    <!-- Lunch -->
     <div class="row dotted-border dotted-top">
       <div class="col-md-6">
         <div class="content">
           <div class="session-highlight pattern-blue">
             <div class="pattern-content">
-              <time>12:10pm</time>
-              <p>Lunch &bull; Exploration Hall</p>
+              <time>{{ site.timeslots['d1_lunch'] }}</time>
+              <p>Lunch &bull; {{ site.stages['hall'] }}</p>
             </div>
           </div>
         </div>
@@ -120,21 +132,41 @@ title: Schedule
     <div class="row">
       <div class="col">
         <div class="content">
-          <h2>day 2</h2>
+          <h2 id="day2">day 2 - May 31st</h2>
         </div>
       </div>
     </div>
 
+    <!-- Breakfast and Registration -->
     <div class="row dotted-border dotted-top">
-      <div class="col-md-6">
+      <div class="col">
         <div class="content">
-          <time>8:00am</time>
+          <time>{{ site.timeslots['d2_breakfast'] }}</time>
         </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
         <div class="content session-summary">
+          <h3 class="track">{{ site.stages['entrance'] }}</h3>
           <p class="session-title">Registration Opens</p>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="content session-summary">
+          <h3 class="track">{{ site.stages['hall'] }}</h3>
           <p class="session-title">Breakfast</p>
         </div>
       </div>
+    </div>
+
+    <div class="row">
+      {% assign d2_breakfast_sessions = site.sessions | where: "timeslot", "d2_breakfast" %}
+      {% for session in d2_breakfast_sessions %}
+        <div class="col-md-6">
+          {% include session_summary_block.html session=session %}
+        </div>
+      {% endfor %}
     </div>
 
     <!-- 9:30am -->
@@ -163,8 +195,8 @@ title: Schedule
         <div class="content">
           <div class="session-highlight pattern-blue">
             <div class="pattern-content">
-              <time>12:15pm</time>
-              <p>Lunch &bull; Exploration Hall</p>
+                <time>{{ site.timeslots['d2_lunch'] }}</time>
+              <p>Lunch &bull; {{ site.stages['hall'] }}</p>
             </div>
           </div>
         </div>

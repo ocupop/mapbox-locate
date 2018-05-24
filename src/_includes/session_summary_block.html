@@ -1,0 +1,13 @@
+
+<div class="content session-summary">
+  <h3 class="track">{{ site.stages[session.stage] }}</h3>
+  <p class="session-title"><a href="{{ session.url }}">{{ session.title }}</a></p>
+  <p>{{ session.short_summary }}</p>
+  {% for object in session.speakers %}
+    {% assign speaker = site.speakers | where: "slug", object | first %}
+    <p class="speaker-name">
+      <a href="{{ speaker.url }}">{{ speaker.name }}</a>
+      {% if speaker.company %} - {{speaker.company}}{% endif %}
+    </p>
+  {% endfor%}
+</div>

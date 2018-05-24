@@ -87,6 +87,13 @@ img.pull-right {
   position: relative;
   color: #fff;
   overflow: visible; }
+  .bg-purple .btn-link {
+    color: #fff; }
+  .bg-purple a {
+    color: #fff;
+    text-decoration: underline; }
+    .bg-purple a:hover {
+      text-decoration: none; }
   .bg-purple .border-purple {
     position: absolute;
     left: 0;

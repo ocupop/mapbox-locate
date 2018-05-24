@@ -94,6 +94,20 @@ img {
   position: relative;
   color: $white;
   overflow: visible;
+
+  .btn-link {
+    color: $white;
+  }
+
+  a {
+    color: $white;
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
   .border-purple {
     position: absolute;
     left: 0;
