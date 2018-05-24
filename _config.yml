@@ -5,8 +5,8 @@ description: 'Mapbox’s first event celebrating and exploring the connectedness
 url: "http://locate.mapbox.com"
 permalink: /:title/
 
-# Google Analytics
-analytics_code: 
+# Segment Analytics
+analytics_code: fl0c8p240n
 
 # Collections
 collections:
