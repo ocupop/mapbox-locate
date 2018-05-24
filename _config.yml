@@ -41,8 +41,8 @@ tracks:
   4: 'Tech Track 2'
 
 timeslots:
-  d1_slot1: '10:45am'
-  d1_slot2: '11:30am'
+  d1_slot1: '10:55am'
+  d1_slot2: '11:40am'
   d1_slot3: '1:15pm'
   d1_slot4: '2:15pm'
   d1_slot5: '3:00pm'
