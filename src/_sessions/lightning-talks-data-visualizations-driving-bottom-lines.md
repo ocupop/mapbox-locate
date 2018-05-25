@@ -10,6 +10,7 @@ speakers:
   - ben-manning
   - piro-lera
   - angelina-calderon
+  - charlie-loyd
 categories:
   - BI & Data Visualization
 short_summary:
