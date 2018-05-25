@@ -15,6 +15,7 @@ speakers:
   - forrest-iandola
   - nikhil-naikal
   - austin-russell
+  - tory-smith
 categories:
   - Auto / Mobility
 short_summary:
