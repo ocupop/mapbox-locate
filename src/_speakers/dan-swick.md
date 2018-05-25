@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Dan Swick
-twitter_username:
+twitter_username: DanSwick
 role: Support Team Manager
 company: Mapbox
 image: /uploads/dan-swick.jpg
