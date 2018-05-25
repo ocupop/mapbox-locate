@@ -6,6 +6,7 @@ summary: >-
 timeslot: d2_slot5
 stage: stage1
 speakers:
+  - jon-lax
   - timoni-west
   - adam-debreczeni
 categories:
