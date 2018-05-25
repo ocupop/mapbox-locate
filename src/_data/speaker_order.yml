@@ -11,8 +11,8 @@ speakers:
   - gabriele-almon
   - ceci-alvarez
   - chris-anderson
-  - chris-chua
   - eugene-chen
+  - chris-chua
   - brandon-d--anderson
   - stefan-seltz-axmacher
   - ben-bajarin
@@ -30,8 +30,10 @@ speakers:
   - damon-burgett
   - andrew-chen
   - dave-cole
+  - rick-dalzell
   - adam-debreczeni
   - jameson-detweiler
+  - ross-donihue
   - michael-duffy
   - amir-efrati
   - john-firebaugh
@@ -44,6 +46,7 @@ speakers:
   - shan-he
   - erik-hersman
   - morgan-herlocker
+  - richard-hurlock
   - forrest-iandola
   - matt-irwin
   - nick-italiano
@@ -51,8 +54,11 @@ speakers:
   - bryan-johnson
   - matti-kakkori
   - andrey-karmatsky
+  - caleb-kruse
   - stephen-lambe
+  - david-lang
   - taya-lavrinenko
+  - jon-lax
   - piro-lera
   - walt-lin
   - aaron-london
@@ -60,6 +66,7 @@ speakers:
   - wei-luo
   - camilla-mahon
   - ben-manning
+  - michael-marfise
   - mikel-maron
   - brett-marraccini
   - austin-marron
@@ -94,6 +101,7 @@ speakers:
   - tory-smith
   - jan-erik-solem
   - dana-sulit
+  - dan-swick
   - bersabel-tadesse
   - anand-thakker
   - blake-thompson
