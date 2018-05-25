@@ -7,9 +7,12 @@ timeslot: d1_slot7
 stage: stage2
 speakers:
   - vrajesh-bhavsar
+  - nikhil-naikal
+  - chris-pendleton
   - tory-smith
 categories:
   - Auto / Mobility
+  - AR / VR / Unity
 short_summary: >-
   Advancements in microprocessors and tech like Tensorflow processors are moving mapping back to the network edge where devices will interpret the world around them with new sensor.
 scheduled: true
