@@ -10,15 +10,13 @@ speakers:
   - anya-ahearn
   - gabriele-almon
   - ceci-alvarez
-  - chris-anderson
-  - eugene-chen
-  - chris-chua
   - brandon-d--anderson
+  - chris-anderson
   - stefan-seltz-axmacher
   - ben-bajarin
   - ron-baker
-  - alex-barth
   - nadia-barbosa
+  - alex-barth
   - ryan-baumann
   - nicolas-belmonte
   - kunal-bhasin
@@ -28,8 +26,10 @@ speakers:
   - dom-brassey
   - lauren-budorick
   - damon-burgett
+  - eugene-chen
   - andrew-chen
   - nicholas-chim
+  - chris-chua
   - dave-cole
   - rick-dalzell
   - adam-debreczeni
@@ -45,8 +45,8 @@ speakers:
   - pablo-guardiola
   - jennifer-haroon
   - shan-he
-  - erik-hersman
   - morgan-herlocker
+  - erik-hersman
   - richard-hurlock
   - forrest-iandola
   - matt-irwin
@@ -62,8 +62,8 @@ speakers:
   - jon-lax
   - piro-lera
   - walt-lin
-  - charlie-lloyd
   - aaron-london
+  - charlie-loyd
   - darwin-lu
   - wei-luo
   - camilla-mahon
@@ -78,8 +78,8 @@ speakers:
   - craig-mcleod
   - matt-miesnieks
   - michal-migurski
-  - emily-miller
   - edward-miller
+  - emily-miller
   - james-minton
   - shannon-myricks
   - nikhil-naikal
@@ -120,6 +120,7 @@ speakers:
   - alex-white
   - aaron-williams
   - nathan-williams
+  - stephanie-yang
   - kaitlin-yarnall
   - an-tian-yu
   - justyna-zander
