@@ -6,6 +6,7 @@ summary: >-
 timeslot: d1_slot3
 stage: stage3
 speakers:
+  - charlie-loyd
   - camilla-mahon
   - brett-marraccini
 categories:
