@@ -8,7 +8,6 @@ stage: stage2
 speakers:
   - vrajesh-bhavsar
   - tory-smith
-  - wei-luo
 categories:
   - Auto / Mobility
 short_summary: >-
