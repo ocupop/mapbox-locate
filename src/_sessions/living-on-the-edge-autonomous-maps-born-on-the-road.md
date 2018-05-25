@@ -14,7 +14,7 @@ categories:
   - Auto / Mobility
   - AR / VR / Unity
 short_summary: >-
-  Advancements in microprocessors and tech like Tensorflow processors are moving mapping back to the network edge where devices will interpret the world around them with new sensor.
+  Advancements in microprocessors and tech like Tensorflow processors are moving mapping back to the network edge where devices will interpret the world around them with new sensors.
 scheduled: true
 featured: true
 featured_img: /assets/img/uber-suv.jpeg
