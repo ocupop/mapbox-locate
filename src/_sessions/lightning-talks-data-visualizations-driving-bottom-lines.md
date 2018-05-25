@@ -9,8 +9,8 @@ speakers:
   - michael-duffy
   - ben-manning
   - piro-lera
+  - james-wagner
   - angelina-calderon
-  - charlie-loyd
 categories:
   - BI & Data Visualization
 short_summary:

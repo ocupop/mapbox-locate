@@ -45,4 +45,8 @@
 /speakers/nathan-williams/ /speaker/nathan-williams/
 /speakers/kaitlin-yarnall/ /speaker/kaitlin-yarnall/
 /speakers/an-tian-yu/ /speaker/an-tian-yu/
-/session/test-session/ /session/robocar-workshop/
+/sessions/ibm-big-blue-talks-big-data/ /sessions/ibm-location-content-and-analysis-transformation/
+/sessions/outdoor-maps/ /sessions/get-outdoors-and-explore-maps-in-consumer-and-retail-tech/
+/sessions/data-driven-styling-runtime-styling-and-expressions-in-gl/ /sessions/the-past-present-and-future-of-dynamic-data-driven-maps/
+/sessions/disaster-response-humanitarian-aid-and-environmental-protection-mapping/ /sessions/maps-tipping-the-balance-of-power/
+/sessions/crisismappers-10-years-later/ /sessions/location-unplugged-maps-for-crisis-and-connectivity/
