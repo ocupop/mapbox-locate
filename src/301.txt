@@ -45,3 +45,4 @@
 /speakers/nathan-williams/ /speaker/nathan-williams/
 /speakers/kaitlin-yarnall/ /speaker/kaitlin-yarnall/
 /speakers/an-tian-yu/ /speaker/an-tian-yu/
+/session/test-session/ /session/robocar-workshop/
