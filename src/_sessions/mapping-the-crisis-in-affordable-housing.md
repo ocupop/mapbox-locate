@@ -6,6 +6,9 @@ summary: >-
 timeslot: d2_slot3
 stage: stage2
 speakers:
+  - james-minton
+  - eugene-chen
+  - ryan-mccullough 
 categories:
   - Community
 short_summary: 
