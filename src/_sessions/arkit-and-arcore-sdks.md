@@ -1,8 +1,10 @@
 ---
 layout: session
-title: ARKit and ARCore SDKs
+title: 'React Native AR, SceneKit, Unity SDKs'
 summary: >-
-  React Native AR, Unity, and SceneKit: a walk though of our 3 SDKs. Obviously if you are reading this description you have found the spoiler to one of the big announcements at the keynote ;)
+  React Native AR, Unity, and SceneKit: a walk though of our 3 SDKs. Obviously
+  if you are reading this description you have found the spoiler to one of the
+  big announcements at the keynote ;)
 timeslot: d1_slot5
 stage: stage4
 speakers:
@@ -12,7 +14,7 @@ speakers:
 categories:
   - AR / VR / Unity
   - Mapbox Tech Talk
-short_summary: 
+short_summary:
 scheduled: true
 ---
 
