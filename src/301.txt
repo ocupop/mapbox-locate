@@ -50,3 +50,5 @@
 /sessions/data-driven-styling-runtime-styling-and-expressions-in-gl/ /sessions/the-past-present-and-future-of-dynamic-data-driven-maps/
 /sessions/disaster-response-humanitarian-aid-and-environmental-protection-mapping/ /sessions/maps-tipping-the-balance-of-power/
 /sessions/crisismappers-10-years-later/ /sessions/location-unplugged-maps-for-crisis-and-connectivity/
+/sessions/arkit-and-arcore-sdks/ /sessions/react-native-ar-scenekit-unity-sdks/
+/sessions/reality-grade-location-data-for-ar/ /sessions/location-data-and-ar/

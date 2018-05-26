@@ -7,7 +7,6 @@ timeslot: d1_slot5
 stage: stage3
 speakers:
   - nadia-barbosa
-  - dan-swick
 categories:
   - Mapbox Tech Talk
 short_summary:

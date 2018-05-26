@@ -17,4 +17,3 @@ categories:
 short_summary:
 scheduled: true
 ---
-
