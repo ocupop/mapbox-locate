@@ -14,12 +14,6 @@
     beginning at 8:00 am while you wait for programming to begin at 9:00 am. On
     May 31, registration and breakfast will open at 8:00 am and programming
     begins at 9:30 am.</p>
-- question: Where is Pier 27?
-  answer_html: >-
-    <div id="map">&nbsp;</div><p>Pier 27 is located along the Embarcadero in San
-    Francisco. As parking is extremely limited, we recommend walking, using
-    public transportation or ride-sharing to the venue. The address is Pier 27,
-    The Embarcadero, San Francisco, CA 94111.</p>
 - question: >-
     I work for a government/non-profit/education organization. Can I qualify for
     a special rate?
@@ -75,3 +69,9 @@
     target="_blank"
     href="https://aasf.org">https://aasf.org</a></li><li>Narcotics Anonymous: <a
     target="_blank" href="http://sfna.org">http://sfna.org</a></li></ul>
+- question: Where is Pier 27?
+  answer_html: >-
+    <div id="map">&nbsp;</div><p>Pier 27 is located along the Embarcadero in San
+    Francisco. As parking is extremely limited, we recommend walking, using
+    public transportation or ride-sharing to the venue. The address is Pier 27,
+    The Embarcadero, San Francisco, CA 94111.</p>
