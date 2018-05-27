@@ -2,7 +2,7 @@
 layout: session
 title: 'React Native AR, SceneKit, Unity SDKs'
 summary: >-
-  React Native AR, Unity, and SceneKit: a walk though of our 3 SDKs. Obviously
+  React Native AR, Unity, and SceneKit: a walk through of our 3 SDKs. Obviously,
   if you are reading this description you have found the spoiler to one of the
   big announcements at the keynote ;)
 timeslot: d1_slot5
