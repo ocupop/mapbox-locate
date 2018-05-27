@@ -15,6 +15,6 @@ short_summary:
 scheduled: true
 ---
 
-Urbica is the team of developers, cartographers, designers and data analysts who worked with the Department of Transport of Moscow to track 812,000 rides across 300 stations. [Their detailed analysis](https://medium.com/the-data-experience/bicycles-in-the-city-f9529d918388) shows the pulse of the city, from the deep winter snow routes to tracking Michael Cohen.
+Moscow\`s bike share Velobike has 400 stations and will reach 4M rides this summer. But like many station-based bike shares, Velobike faced issues with irregular route shifts and as a result, had inefficient bike availability at their stations. Urbica developed a solution that predicts bike station availability and allows supervisors to dispatch balancing drivers efficiently. Urbica is a team of developers, cartographers, designers, and data analysts. They work on projects connected with urban data, analysis, maps and data interfaces.
 
 Aaron Williams of MapD will then cover how MapD optimized their geospatial analytics platform to be as lightweight and performant as possible.
