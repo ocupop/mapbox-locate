@@ -7,7 +7,8 @@ timeslot: d1_slot7
 stage: stage2
 speakers:
   - vrajesh-bhavsar
-  - nikhil-naikal
+  - eric-gundersen
+  - wei-luo
   - chris-pendleton
   - tory-smith
 categories:

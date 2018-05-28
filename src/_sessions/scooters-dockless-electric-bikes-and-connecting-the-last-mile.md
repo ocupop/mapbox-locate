@@ -7,6 +7,7 @@ timeslot: d1_slot2
 stage: stage3
 speakers:
   - kunal-bhasin
+  - nelle-pierson
   - stephen-smyth
   - stephen-lambe
 short_summary:
