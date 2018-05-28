@@ -4,7 +4,7 @@ title: >-
   National Geographic and The Geographer of the United States of America have
   Coffee with Ira
 summary: >-
-  CEO of National Geographic, Gary Knell,  and the Geographer of the United
+  CEO of National Geographic, Gary Knell, and the Geographer of the United
   States, Lee Schwartz, talk cartography, sustainability of the planet, and how
   software is changing this age-old field. Tesla and Mapbox Board Member Ira
   Ehrenpreis of DBL Partners will facilitate the conversation.
@@ -13,6 +13,7 @@ stage: stage2
 speakers:
   - gary-knell
   - lee-r-schwartz
+  - ira-ehrenpreis
 categories:
   - Community
 short_summary:
