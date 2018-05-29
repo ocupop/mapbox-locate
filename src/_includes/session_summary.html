@@ -16,7 +16,7 @@ First all the normal track sessions
 {% endcomment %}
 <div class="row dotted-border">
   {% for session in sorted %}
-    <div class="col-md-6 {% cycle 'order-md-1', 'order-md-3', 'order-md-2', 'order-md-4' %}">
+    <div class="col-md-6">
       {% include session_summary_block.html session=session %}
     </div>
   {% endfor %}
