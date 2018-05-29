@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Business Intelligence; the Visualization Stack
+title: 'Easier, Better, Faster, Stronger: the New Data Visualization Stack'
 summary: >-
   Uber, MicroStrategy, and SumoLogic share how they build unique visualization
   and analytics capabilities.
