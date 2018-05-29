@@ -10,6 +10,7 @@ speakers:
   - eugene-chen
   - james-minton
   - ryan-mccullough
+  - dom-brassey
 categories:
   - Community
 short_summary: 

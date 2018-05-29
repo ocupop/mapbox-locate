@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Eugene Chen
-twitter_username:
+twitter_username: ideaowl
 role: CTO
 company: Darkhorse Analytics
 image: /uploads/eugene-chene.jpg
