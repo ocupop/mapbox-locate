@@ -2,11 +2,7 @@
 layout: session
 title: The Best Billion Dollars Ever Spent
 summary: >-
-  “We have to spend billions of dollars on maps and it's worth it” Larry Page
-  said to CNN. From the early days of Google Maps to the launch of crowdsourcing
-  via sensors on your phone with Waze. Hear from Manik Gupta and Di-Ann Eisnor
-  on how they led the transformation of what maps would become today: a living
-  network of decentralized sensors mapping the world live.
+  Google's Larry Page was quoted as telling the early Google Maps team that "We will have to spend billions of dollars on maps and it's worth it". From the early days of Google Maps to the launch of crowdsourcing of live data from your phone with Waze, that investment has revolutionized the mapping world, sparking the integration of location into the daily digital lives of billions of people. Hear from Manik Gupta and Di-Ann Eisnor about how the transformation of digital mapping into what it would become today: a living network of decentralized sensors mapping the world.
 timeslot: d1_slot1
 stage: stage1
 speakers:
@@ -24,5 +20,3 @@ featured: true
 featured_img: /assets/img/road-lines.png
 featured_order: 4
 ---
-
-Hear from Manik Gupta and Di-Ann Eisnor on how they led the transformation ofwhat maps would become today: a living network of decentralized sensorsmapping the world live.
