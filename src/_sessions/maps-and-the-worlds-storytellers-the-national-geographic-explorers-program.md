@@ -7,6 +7,9 @@ timeslot: d1_slot4
 stage: stage3
 speakers:
   - kaitlin-yarnall
+  - ross-donihue
+  - caleb-kruse
+  - david-lang
 categories:
   - Community
 short_summary:
