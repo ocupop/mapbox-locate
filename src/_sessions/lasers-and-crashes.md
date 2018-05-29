@@ -7,6 +7,7 @@ timeslot: d1_slot4
 stage: stage4
 speakers:
   - aaron-nathan
+  - dan-shapiro
 categories:
 short_summary:
 scheduled: true
