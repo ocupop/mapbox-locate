@@ -2,8 +2,8 @@
 layout: session
 title: 'Easier, Better, Faster, Stronger: the New Data Visualization Stack'
 summary: >-
-  Uber, MicroStrategy, and SumoLogic share how they build unique visualization
-  and analytics capabilities.
+  Uber, MicroStrategy, and Sumo Logic talk with our data visualization team
+  about pushing the limits of maps and data.
 timeslot: d1_slot2
 stage: stage1
 speakers:
