@@ -1,8 +1,8 @@
 ---
 layout: session
-title: 'Secret Product TBA'
+title: Vision SDK Intro
 summary:
-timeslot: d1_slot8
+timeslot: d2_slot4
 stage: stage3
 speakers:
 categories:
