@@ -11,6 +11,7 @@ speakers:
   - michal-migurski
   - nicholas-chim
   - christina-franken
+  - carrie-bishop
 categories:
   - Community
 short_summary:
